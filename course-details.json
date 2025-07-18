@@ -1,382 +1,1694 @@
 [
   {
-    "name": "Complete Web Developer: Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/coding-bootcamp/"
-  },
-  {
-    "name": "The Complete Junior to Senior Web Developer Roadmap",
-    "link": "https://zerotomastery.io/courses/junior-to-senior-web-developer-roadmap/"
-  },
-  {
-    "name": "Master the Coding Interview: Data Structures + Algorithms",
-    "link": "https://zerotomastery.io/courses/learn-data-structures-and-algorithms/"
-  },
-  {
-    "name": "JavaScript: The Advanced Concepts",
-    "link": "https://zerotomastery.io/courses/advanced-javascript-concepts/"
-  },
-  {
-    "name": "Complete React Developer (w/ Redux, Hooks, GraphQL)",
-    "link": "https://zerotomastery.io/courses/learn-react/"
-  },
-  {
-    "name": "Complete Python Developer: Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/learn-python/"
-  },
-  {
-    "name": "Complete Machine Learning and Data Science: Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/machine-learning-and-data-science-bootcamp/"
-  },
-  {
-    "name": "Learning to Learn [Efficient Learning]: Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/learning-how-to-learn/"
-  },
-  {
-    "name": "Deno: The Complete Guide Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/learn-deno/"
-  },
-  {
-    "name": "JavaScript Web Projects: 20 Projects to Build Your Portfolio",
-    "link": "https://zerotomastery.io/courses/javascript-projects/"
-  },
-  {
-    "name": "Complete SQL + Databases Bootcamp: Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/sql-bootcamp/"
-  },
-  {
-    "name": "Complete Web & Mobile Designer: UI/UX, Figma + more",
-    "link": "https://zerotomastery.io/courses/learn-web-design/"
-  },
-  {
-    "name": "Master the Coding Interview: Big Tech (FAANG) Interviews",
-    "link": "https://zerotomastery.io/courses/faang-interview-prep/"
-  },
-  {
-    "name": "Complete Ethical Hacking Bootcamp: Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/learn-ethical-hacking/"
-  },
-  {
-    "name": "Complete React Native Developer: Zero to Mastery [with Hooks]",
-    "link": "https://zerotomastery.io/courses/learn-react-native/"
-  },
-  {
-    "name": "TensorFlow Developer Certificate: Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/learn-tensorflow/"
-  },
-  {
-    "name": "Complete Vue Developer in 2024: Zero to Mastery (Pinia, Vitest)",
-    "link": "https://zerotomastery.io/courses/learn-vue-js/"
-  },
-  {
-    "name": "Complete Node.js Developer: Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/learn-node-js/"
-  },
-  {
-    "name": "Dart: The Complete Developer's Guide",
-    "link": "https://zerotomastery.io/courses/learn-dart/"
-  },
-  {
-    "name": "Web Security & Bug Bounty: Learn Penetration Testing",
-    "link": "https://zerotomastery.io/courses/learn-penetration-testing/"
-  },
-  {
-    "name": "DevOps Bootcamp: Learn Linux & Become a Linux Sysadmin",
-    "link": "https://zerotomastery.io/courses/devops-bootcamp/"
-  },
-  {
-    "name": "Complete Guide to Freelancing: Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/become-a-freelancer/"
-  },
-  {
-    "name": "Rust Programming: The Complete Developer's Guide",
-    "link": "https://zerotomastery.io/courses/learn-rust/"
-  },
-  {
-    "name": "Build a Full-Stack X/Twitter Clone with Rust",
-    "link": "https://zerotomastery.io/courses/rust-project-twitter-clone/"
-  },
-  {
-    "name": "SEO Bootcamp: Learn Search Engine Optimization",
-    "link": "https://zerotomastery.io/courses/seo-content-optimization/"
-  },
-  {
-    "name": "Motion Design with Figma: Animations, Motion Graphics, UX/UI",
-    "link": "https://zerotomastery.io/courses/learn-motion-design/"
-  },
-  {
-    "name": "Complete Next.js Developer: Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/learn-next-js/"
-  },
-  {
-    "name": "WebAssembly: A Practical Guide",
-    "link": "https://zerotomastery.io/courses/learn-webassembly/"
-  },
-  {
-    "name": "NFT 101: Introduction to NFTs",
-    "link": "https://zerotomastery.io/courses/introduction-to-nfts/"
-  },
-  {
-    "name": "Complete Angular Developer: Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/learn-angular/"
-  },
-  {
-    "name": "The Excel Bootcamp: Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/excel-bootcamp/"
-  },
-  {
-    "name": "Go Programming (Golang): The Complete Developer's Guide",
-    "link": "https://zerotomastery.io/courses/learn-golang/"
-  },
-  {
-    "name": "Learning to Meditate [Productivity & Focus]",
-    "link": "https://zerotomastery.io/courses/learn-meditation-for-productivity/"
-  },
-  {
-    "name": "Business Analytics Bootcamp (with Python): Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/learn-business-analytics/"
-  },
-  {
-    "name": "Consulting: The Complete Freelancer's Guide",
-    "link": "https://zerotomastery.io/courses/learn-freelance-consulting/"
-  },
-  {
-    "name": "Web3 Masterclass: Blockchain, DApps, DAOs + More",
-    "link": "https://zerotomastery.io/courses/introduction-to-web3/"
-  },
-  {
-    "name": "DevOps Bootcamp: Terraform",
-    "link": "https://zerotomastery.io/courses/learn-terraform-certification/"
-  },
-  {
-    "name": "AWS Certified Cloud Practitioner",
-    "link": "https://zerotomastery.io/courses/learn-aws-cloud-practitioner/"
-  },
-  {
-    "name": "Life System Design",
-    "link": "https://zerotomastery.io/courses/life-system-design/"
-  },
-  {
-    "name": "Solidity, Ethereum and Blockchain: The Complete Developer's Guide",
-    "link": "https://zerotomastery.io/courses/blockchain-developer-bootcamp/"
-  },
-  {
-    "name": "ZTM Fitness: Get Healthier in 4 Weeks",
-    "link": "https://zerotomastery.io/courses/exercise-bootcamp/"
-  },
-  {
-    "name": "VBA Programming",
-    "link": "https://zerotomastery.io/courses/learn-vba/"
-  },
-  {
-    "name": "PyTorch for Deep Learning",
-    "link": "https://zerotomastery.io/courses/learn-pytorch/"
-  },
-  {
-    "name": "Complete Cybersecurity Bootcamp: Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/learn-cybersecurity-bootcamp/"
-  },
-  {
-    "name": "Advanced Excel Bootcamp: Data Analytics and Business Intelligence",
-    "link": "https://zerotomastery.io/courses/business-intelligence-course/"
-  },
-  {
-    "name": "Bash Scripting: Learn Shell Scripting",
-    "link": "https://zerotomastery.io/courses/learn-bash-scripting/"
-  },
-  {
-    "name": "Time Series Forecasting with Python",
-    "link": "https://zerotomastery.io/courses/time-series-forecasting/"
-  },
-  {
-    "name": "Master the Coding Interview: System Design + Architecture",
-    "link": "https://zerotomastery.io/courses/system-design/"
-  },
-  {
-    "name": "AWS Certified Solutions Architect",
-    "link": "https://zerotomastery.io/courses/aws-certified-solutions-architect-bootcamp/"
-  },
-  {
-    "name": "Unity Bootcamp: 3D Game Development",
-    "link": "https://zerotomastery.io/courses/learn-unity-bootcamp/"
-  },
-  {
-    "name": "Testing: The Complete Developer's Guide",
-    "link": "https://zerotomastery.io/courses/software-testing-course/"
-  },
-  {
-    "name": "Power BI Bootcamp: Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/learn-power-bi-bootcamp/"
-  },
-  {
-    "name": "ChatGPT and Large Language Models (LLMs): A Practical Guide",
-    "link": "https://zerotomastery.io/courses/large-language-models/"
-  },
-  {
-    "name": "The Complete Career Toolkit: Personal Branding, Resume Building + more",
-    "link": "https://zerotomastery.io/courses/personal-branding/"
-  },
-  {
-    "name": "C#/.NET Bootcamp: The Fundamentals + more",
-    "link": "https://zerotomastery.io/courses/csharp-net-bootcamp/"
-  },
-  {
-    "name": "Java Programming Bootcamp: Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/java-bootcamp/"
-  },
-  {
-    "name": "CompTIA Security+ Certification Bootcamp",
-    "link": "https://zerotomastery.io/courses/security-plus-boot-camp/"
-  },
-  {
-    "name": "Flutter Bootcamp: Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/flutter-bootcamp/"
-  },
-  {
-    "name": "Django Bootcamp: Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/django-bootcamp/"
-  },
-  {
-    "name": "TypeScript Bootcamp: Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/typescript-bootcamp/"
-  },
-  {
-    "name": "Three.js Bootcamp: Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/learn-three-js/"
-  },
-  {
-    "name": "Remix Bootcamp: Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/learn-remix-run/"
-  },
-  {
-    "name": "Statistics with Python: Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/learn-statistics-with-python/"
-  },
-  {
-    "name": "The CSS Bootcamp: Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/css-bootcamp/"
-  },
-  {
-    "name": "Build an End-to-End Web App from Scratch in AWS",
-    "link": "https://zerotomastery.io/courses/aws-project-web-app/"
-  },
-  {
-    "name": "Design a Responsive Airbnb Website with Figma",
-    "link": "https://zerotomastery.io/courses/figma-projects-responsive-web-design/"
-  },
-  {
-    "name": "Conduct a Choice-Based Conjoint Analysis for Netflix with Python",
-    "link": "https://zerotomastery.io/courses/data-analysis-projects-choice-based-conjoint-analysis/"
-  },
-  {
-    "name": "Developing LLM App Frontends with Streamlit",
-    "link": "https://zerotomastery.io/courses/learn-streamlit-tutorial/"
-  },
-  {
-    "name": "Developing LLM Apps with LangChain",
-    "link": "https://zerotomastery.io/courses/learn-langchain-pinecone/"
-  },
-  {
-    "name": "Build a Yelp! Clone for Restaurants with Flutter and Dart",
-    "link": "https://zerotomastery.io/courses/flutter-projects-yelp-clone/"
-  },
-  {
-    "name": "Create a Discord Bot with Node.js",
-    "link": "https://zerotomastery.io/courses/nodejs-projects-discord-bot/"
-  },
-  {
-    "name": "Enhanced Freelancing with AI",
-    "link": "https://zerotomastery.io/courses/ai-freelancing/"
-  },
-  {
-    "name": "Artificial Intelligence in Cybersecurity",
-    "link": "https://zerotomastery.io/courses/ai-and-cybersecurity/"
-  },
-  {
-    "name": "AI Coding with GitHub Copilot",
-    "link": "https://zerotomastery.io/courses/learn-github-copilot/"
-  },
-  {
-    "name": "AI Coding with Jupyter AI",
-    "link": "https://zerotomastery.io/courses/learn-jupyter-ai/"
-  },
-  {
-    "name": "Future of A.I. & How To Use ChatGPT ",
-    "link": "Youtube version here you can share"
-  },
-  {
-    "name": "Introduction to Networking",
-    "link": "https://zerotomastery.io/courses/introduction-to-networking/"
-  },
-  {
-    "name": "Statistics Bootcamp (with Python): Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/learn-statistics-with-python/"
-  },
-  {
-    "name": "Building AI Apps with the OpenAI API: GPT, DALL-E & Whisper",
-    "link": "https://zerotomastery.io/courses/openai-api-tutorial/"
-  },
-  {
-    "name": "Supercharged Code Editing with Vim and Neovim",
-    "link": "https://zerotomastery.io/courses/learn-neovim-and-vim/"
-  },
-  {
-    "name": "Introduction to ChatGPT: A Practical Guide",
-    "link": "https://zerotomastery.io/courses/chatgpt-code-interpreter-guide/"
-  },
-  {
-    "name": "Build a Notion Clone with React and TypeScript",
-    "link": "https://zerotomastery.io/courses/react-project-ideas-notion-clone/"
-  },
-  {
-    "name": "Master the Pathfinding Algorithms with JavaScript and React",
-    "link": "https://zerotomastery.io/courses/javascript-project-algorithm-visualizer/"
-  },
-  {
-    "name": "Ultimate AWS Bedrock Guide: Build & Scale Generative AI Apps",
-    "link": "https://zerotomastery.io/courses/learn-aws-bedrock/"
-  },
-  {
-    "name": "Rank a Website on the First Page of Google with SEO",
-    "link": "https://zerotomastery.io/courses/seo-projects-rank-first-page/"
-  },
-  {
-    "name": "Crack the Frontend Interview with React",
-    "link": "https://zerotomastery.io/courses/react-projects-star-rating-component/"
-  },
-  {
-    "name": "Create a Retirement Planning Tool with Excel",
-    "link": "https://zerotomastery.io/courses/excel-projects-retirement-planning-tool/"
-  },
-  {
-    "name": "Build an Instagram Filters App with Vue, TypeScript and WebAssembly",
-    "link": "https://zerotomastery.io/courses/vue-project-instagram-filter-app/"
-  },
-  {
-    "name": "Building AI Apps with the Gemini API",
-    "link": "https://zerotomastery.io/courses/learn-gemini-api/"
-  },
-  {
-    "name": "PHP Development Bootcamp: Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/learn-php-bootcamp/"
-  },
-  {
-    "name": "Build a ChatBot with Nuxt, TypeScript and the OpenAI Assistants API",
-    "link": "https://zerotomastery.io/courses/nuxt-project-chatbot-ai/"
-  },
-  {
+    "id": "1642059",
+    "name": "Step 1: Join Our Online Classroom",
+    "description": "Your membership includes access to the private online ZTM community classroom on Discord. You'll join thousands of students of all levels and backgrounds who are learning together and working together to achieve their goals and advance their careers.",
+    "instructor": "Zero To Mastery Instructor Team",
+    "thumbnail": "https://static-media.hotmart.com/NnLnDojdTXC_NqYRKCfZqFzK4I4=/705x0/https://uploads.teachablecdn.com/attachments/SYjSFfpcT4Wf3I2uKGeS_22dc45765b214d9492945d19ec79794f.jpeg",
+    "link": null,
+    "courseLink": "https://academy.zerotomastery.io/courses/1642059",
+    "length": null,
+    "lessons": null,
+    "level": null
+  },
+  {
+    "id": "1376066",
+    "name": "Step 2: Choose Your Career Path",
+    "description": "No matter your background or experience, we give you the exact steps to get hired in your dream career, this year. And we’ll guide you every step of the way.",
+    "instructor": "Zero To Mastery Instructor Team",
+    "thumbnail": "https://static-media.hotmart.com/1GIrz7nNdjrGsMDudw3bZZFO9ko=/705x0/https://uploads.teachablecdn.com/attachments/IsK52cwrRQ6oacXpxFGi_9fb84026465448a4b9c3567e2eb08ba5.jpeg",
+    "link": null,
+    "courseLink": "https://academy.zerotomastery.io/courses/1376066",
+    "length": null,
+    "lessons": null,
+    "level": null
+  },
+  {
+    "id": "1892089",
+    "name": "Step 3: Check Your ZTM Passport",
+    "description": "Track your learning streaks and collect badges to show off your new skills. Exclusive for ZTM Academy students.",
+    "instructor": "Zero To Mastery Instructor Team",
+    "thumbnail": "https://static-media.hotmart.com/-ZzxRVzuH_tWzBm3Z6XHIrIl8vE=/705x0/https://uploads.teachablecdn.com/attachments/XgwPjiKqTVyrTw64bcdD_passport.png",
+    "link": null,
+    "courseLink": "https://academy.zerotomastery.io/courses/1892089",
+    "length": null,
+    "lessons": null,
+    "level": null
+  },
+  {
+    "id": "1238395",
+    "name": "Step 4: Goal Setting for Your Career - Future-Proof Yourself",
+    "description": "Learn how to set strategic, actionable goals, adapt to changing trends, and create a career roadmap that keeps you on track for success.",
+    "instructor": "Andrei Neagoie",
+    "thumbnail": "https://static-media.hotmart.com/3PUkT-yrkXMEAsaVsiU3bsO8Kt0=/705x0/https://uploads.teachablecdn.com/attachments/h0tjbOU6TRSH6PKI8wJs_kTBwzcllRvGagsTwqbeS.jpeg",
+    "link": "https://zerotomastery.io/courses/how-to-future-proof-your-career/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1238395",
+    "length": "1 Hours",
+    "lessons": 3,
+    "level": "Beginner"
+  },
+  {
+    "id": "694968",
+    "name": "Complete Python Developer in 2025: Zero to Mastery",
+    "description": "Learn Python from scratch, get hired, and have fun along the way with the most modern, up-to-date Python course on the web.",
+    "instructor": "Andrei Neagoie",
+    "thumbnail": "https://static-media.hotmart.com/snDBfI2H7QKMiHvdNGftL2gTj8c=/705x0/https://uploads.teachablecdn.com/attachments/CNZJ2saxTaamkqzweZWS_python.png",
+    "link": "https://zerotomastery.io/courses/learn-python/",
+    "courseLink": "https://academy.zerotomastery.io/courses/694968",
+    "length": "32 Hours",
+    "lessons": 346,
+    "level": "Beginner"
+  },
+  {
+    "id": "700485",
+    "name": "Complete A.I. Machine Learning and Data Science: Zero to Mastery",
+    "description": "Learn Machine Learning (Artificial Intelligence), Python, Data Science, Data Analysis, Tensorflow, Pandas & more. All using the latest in AI!",
+    "instructor": "Andrei Neagoie",
+    "thumbnail": "https://static-media.hotmart.com/0BhSzuVZHmkMQrFoQ0EiC-HnHNw=/705x0/https://uploads.teachablecdn.com/attachments/UJrxHA5TNCPpV7i5RWwj_wqIa4WDuRjmnRmmgK0jm.jpeg",
+    "link": "https://zerotomastery.io/courses/machine-learning-and-data-science-bootcamp/",
+    "courseLink": "https://academy.zerotomastery.io/courses/700485",
+    "length": "45 Hours",
+    "lessons": 390,
+    "level": "Intermediate"
+  },
+  {
+    "id": "697434",
+    "name": "Complete Web Developer in 2025: Zero to Mastery",
+    "description": "Learn to code from scratch and get hired as a Web Developer in 2025. This full-stack coding bootcamp will teach you HTML, CSS, JavaScript, React, Node.js, Machine Learning & more.",
+    "instructor": "Andrei Neagoie",
+    "thumbnail": "https://static-media.hotmart.com/7ZtPC1epHSIGaMqUJ-buKFDJlo0=/705x0/https://uploads.teachablecdn.com/attachments/7hQJ2pajTMuenKW4bCej_webdeveloper.png",
+    "link": "https://zerotomastery.io/courses/coding-bootcamp/",
+    "courseLink": "https://academy.zerotomastery.io/courses/697434",
+    "length": "40 Hours",
+    "lessons": 401,
+    "level": "Beginner"
+  },
+  {
+    "id": "2722640",
+    "name": "Career Guide to Your Dream Job: Resumes, Interviews & Promotions",
+    "description": "Learn how to take the next step in your career. Whether you’re job hunting or aiming for a promotion, this course gives you the ultimate career advantage no matter your industry or experience level.",
+    "instructor": "Andrei Neagoie",
+    "thumbnail": "https://static-media.hotmart.com/cFLEx4985s_xP-wlsm5H3a22g_o=/705x0/https://uploads.teachablecdn.com/attachments/bcvT8ggcTbyfGlVDi0nP_The+Career+Guide+to+Your+Dream+Job+%283%29.jpg",
+    "link": "https://zerotomastery.io/courses/land-your-dream-job/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2722640",
+    "length": "5 Hours",
+    "lessons": 80,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2276446",
     "name": "Prompt Engineering Bootcamp (Working With LLMs): Zero to Mastery",
-    "link": "https://zerotomastery.io/courses/prompt-engineering-bootcamp/"
+    "description": "Stop memorizing random prompts. Instead, learn how Large Language Models (LLMs) actually work and how to use them effectively. This course will take you from being a complete beginner to the forefront of the AI world.",
+    "instructor": "Scott Kerr",
+    "thumbnail": "https://static-media.hotmart.com/r8N_bIPmrBnjoY58JBejZMi31Fw=/705x0/https://uploads.teachablecdn.com/attachments/zsqCm7tkQgqJGM1r4pG1_5kfPknrqQhmuUwN9cFr1.jpeg",
+    "link": "https://zerotomastery.io/courses/prompt-engineering-bootcamp/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2276446",
+    "length": "27 Hours",
+    "lessons": 255,
+    "level": "Beginner"
   },
   {
-    "name": "Introduction to ChatGPT Code Interpreter",
-    "link": "https://zerotomastery.io/courses/chatgpt-code-interpreter-guide/"
+    "id": "1710861",
+    "name": "AWS Certified Cloud Practitioner: Zero to Mastery",
+    "description": "Learn AWS from scratch, from an industry expert. You'll learn AWS fundamentals all the way to advanced cloud technologies, so that you'll be able to ace the certification exam and get hired as a Cloud Engineer!",
+    "instructor": "Amber Israelsen",
+    "thumbnail": "https://static-media.hotmart.com/gYo2bAoz8V9TuE2oJaWK7lDdhW4=/705x0/https://uploads.teachablecdn.com/attachments/NaWvFN3IQoqs7p67dXM3_Zt5dAv68SDW5QaZ5l7gy.jpeg",
+    "link": "https://zerotomastery.io/courses/learn-aws-cloud-practitioner",
+    "courseLink": "https://academy.zerotomastery.io/courses/1710861",
+    "length": "8 Hours",
+    "lessons": 185,
+    "level": "Beginner"
   },
   {
-    "name": "Conquer JavaScript by Building Your Own Framework from Scratch",
-    "link": "https://zerotomastery.io/courses/build-javascript-framework-project/"
+    "id": "700470",
+    "name": "The Complete Junior to Senior Web Developer Roadmap (2025)",
+    "description": "Go from Junior Developer to Senior Developer. Learn all the technical and non-technical skills you need to become a Senior Web Developer. Includes SSH, Node, Docker, React, TypeScript, Load Balancing, Redis, JWT + more!",
+    "instructor": "Andrei Neagoie",
+    "thumbnail": "https://static-media.hotmart.com/qluO6T5YgjBDMjHoo3FpLC33hzk=/705x0/https://uploads.teachablecdn.com/attachments/lpcy8nZcQK2QucEKgN5N_fDtwU0pQS5iPMEydUITX.png",
+    "link": "https://zerotomastery.io/courses/junior-to-senior-web-developer-roadmap/",
+    "courseLink": "https://academy.zerotomastery.io/courses/700470",
+    "length": "37 Hours",
+    "lessons": 436,
+    "level": "Advanced"
   },
   {
+    "id": "776308",
+    "name": "Learning to Learn [Efficient Learning]: Zero to Mastery Blueprint",
+    "description": "Become an efficient learner and best version of yourself. You'll learn scientifically proven strategies, techniques & skills used by the world's top performers!",
+    "instructor": "Andrei Neagoie",
+    "thumbnail": "https://static-media.hotmart.com/lHXkY0FXisQ_vZg15iF__vrtsWw=/705x0/https://uploads.teachablecdn.com/attachments/vx5hReq4TLOJtMIuRO86_KBwd2orWRUeg58lOI0ig.jpeg",
+    "link": "https://zerotomastery.io/courses/learning-how-to-learn",
+    "courseLink": "https://academy.zerotomastery.io/courses/776308",
+    "length": "5.5 Hours",
+    "lessons": 110,
+    "level": "Beginner"
+  },
+  {
+    "id": "1073491",
+    "name": "Complete SQL + Databases Bootcamp: Zero to Mastery",
+    "description": "This SQL Bootcamp will teach you SQL, database management, and database design using real-world exercises working with all database types. No experience needed.",
+    "instructor": "Mo Binni",
+    "thumbnail": "https://static-media.hotmart.com/2IAnM7OlkmzXgXBbjvypuwQAMVo=/705x0/https://uploads.teachablecdn.com/attachments/8dIkSYn0TQaoXnhvlu9v_sql.png",
+    "link": "https://zerotomastery.io/courses/sql-bootcamp/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1073491",
+    "length": "26 Hours",
+    "lessons": 293,
+    "level": "Beginner"
+  },
+  {
+    "id": "2658555",
+    "name": "The Data Engineering Bootcamp: Zero to Mastery",
+    "description": "Master modern data engineering with Spark, Kafka, Airflow, AWS, and LLMs. Build real-time pipelines, data lakes, and production-grade ML workflows from scratch.",
+    "instructor": "Ivan Mushketyk",
+    "thumbnail": "https://static-media.hotmart.com/8cMV-AbwRQB_QEHoUBLoSk0ncB4=/705x0/https://uploads.teachablecdn.com/attachments/bfc713634a134fb99c222cdcbbaae81c.jpg",
+    "link": "https://zerotomastery.io/courses/data-engineering-bootcamp/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2658555",
+    "length": "14 Hours",
+    "lessons": 165,
+    "level": "New!"
+  },
+  {
+    "id": "700474",
+    "name": "Master the Coding Interview: Data Structures + Algorithms",
+    "description": "The ultimate coding interview bootcamp to ace your coding interviews and land your dream job. Learn data structures & algorithms and the exact steps to take to get more interviews, more job offers, and a higher salary.",
+    "instructor": "Andrei Neagoie",
+    "thumbnail": "https://static-media.hotmart.com/b9rpWF-TtO_a5hM0PwKuzW2eS4I=/705x0/https://uploads.teachablecdn.com/attachments/9cCQ67WQDKUJTBgU4dd0_G8JYrItxTkiG7xD5ImQm.png",
+    "link": "https://zerotomastery.io/courses/learn-data-structures-and-algorithms/",
+    "courseLink": "https://academy.zerotomastery.io/courses/700474",
+    "length": "21 Hours",
+    "lessons": 270,
+    "level": "Intermediate"
+  },
+  {
+    "id": "1132099",
+    "name": "Master the Coding Interview: Big Tech (FAANG) Interviews",
+    "description": "Get hired at top tech companies (Google, Amazon, Apple + more)! The only FAANG interview prep course you need to ace the coding interview and get hired at the company of your dreams.",
+    "instructor": "Yihua Zhang",
+    "thumbnail": "https://static-media.hotmart.com/sZv-qtpGN9ya3ex0qODd6X7-9xY=/705x0/https://uploads.teachablecdn.com/attachments/TQWdbnPQJmD7veXCZdUa_faanginterview.png",
+    "link": "https://zerotomastery.io/courses/faang-interview-prep/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1132099",
+    "length": "38 Hours",
+    "lessons": 300,
+    "level": "Advanced"
+  },
+  {
+    "id": "1934520",
+    "name": "Master the Coding Interview: System Design + Architecture",
+    "description": "Become a Senior Engineer. Learn the systems and architecture of web applications. Understand the technologies and trade-offs needed to design the right system.",
+    "instructor": "Yihua Zhang",
+    "thumbnail": "https://static-media.hotmart.com/--dooR9YRqpEcY2zfaAtQBeQRTs=/705x0/https://uploads.teachablecdn.com/attachments/MIXvUQxHShOZO8MevHna_systemdesign.png",
+    "link": "https://zerotomastery.io/courses/system-design/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1934520",
+    "length": "4 Hours",
+    "lessons": 28,
+    "level": "Advanced"
+  },
+  {
+    "id": "698487",
+    "name": "JavaScript: The Advanced Concepts",
+    "description": "Learn modern, advanced JavaScript practices to become a top 10% JavaScript Developer. Fun fact: this course is even used as a reference for some FAANG company interview processes.",
+    "instructor": "Andrei Neagoie",
+    "thumbnail": "https://static-media.hotmart.com/J4tB52dvIaPjA2Vg4XJepjriZQs=/705x0/https://uploads.teachablecdn.com/attachments/M4ksrsTXSJiKv4esPyFq_EusdpfMnQRy8JSDJU3cX.png",
+    "link": "https://zerotomastery.io/courses/advanced-javascript-concepts/",
+    "courseLink": "https://academy.zerotomastery.io/courses/698487",
+    "length": "27 Hours",
+    "lessons": 240,
+    "level": "Advanced"
+  },
+  {
+    "id": "700475",
+    "name": "Complete React Developer in 2025 (w/ Redux, Hooks, GraphQL): Zero to Mastery",
+    "description": "Learn React.js from two industry experts. The only React JS bootcamp course you need to learn React, build large-scale apps from scratch, and get hired as a React Developer. Go from Zero to ReactJS Mastery.",
+    "instructor": "Andrei Neagoie",
+    "thumbnail": "https://static-media.hotmart.com/PjOYBFMUCX7rEWNcLPGmCfIsHeI=/705x0/https://uploads.teachablecdn.com/attachments/TKEXDNI8TQWqAkrgHFm9_yfTP0tf9Q8WwcUZpxlTi.jpeg",
+    "link": "https://zerotomastery.io/courses/learn-react/",
+    "courseLink": "https://academy.zerotomastery.io/courses/700475",
+    "length": "42.5 Hours",
+    "lessons": 380,
+    "level": "Advanced"
+  },
+  {
+    "id": "1206554",
+    "name": "Complete Node.js Developer in 2025: Zero to Mastery",
+    "description": "Learn Node.js from two industry experts. The only NodeJS course you need to learn Node, build large-scale apps from scratch, and get hired as a Backend Developer or Node JS Developer. Go from Zero to Node Mastery.",
+    "instructor": "Adam Odziemkowski",
+    "thumbnail": "https://static-media.hotmart.com/NL1l4hxyjI9OZAu03DB53TiK6Sw=/705x0/https://uploads.teachablecdn.com/attachments/uFg81WfnSsW002S7G2w8_lEFsMyXoSc2jTfefQDie.jpeg",
+    "link": "https://zerotomastery.io/courses/learn-node-js/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1206554",
+    "length": "48 Hours",
+    "lessons": 447,
+    "level": "Intermediate"
+  },
+  {
+    "id": "1073485",
+    "name": "Complete UI/UX Product Design Bootcamp: Zero to Mastery",
+    "description": "Go from beginner to hired as a UI/UX Designer in 2025! This is the only design bootcamp you need to learn and master web design, mobile design, Figma, UI & UX, and HTML + CSS.",
+    "instructor": "Andrei Neagoie",
+    "thumbnail": "https://static-media.hotmart.com/aFQllcxhAQ0C7glFNget7yWgknE=/705x0/https://uploads.teachablecdn.com/attachments/gSvyNopS02xtkMhG5t9a_Qja7CoWqRJ6NAe7nYVTu.jpeg",
+    "link": "https://zerotomastery.io/courses/ui-ux-product-design-bootcamp/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1073485",
+    "length": "29 Hours",
+    "lessons": 285,
+    "level": "Beginner"
+  },
+  {
+    "id": "1240775",
+    "name": "TensorFlow for Deep Learning Bootcamp: Zero to Mastery",
+    "description": "Learn TensorFlow. Get Hired. This course will take you from a beginner to a TensorFlow and Deep Learning Expert. Includes Computer Vision, Convolutional Neural Networks, Transfer Learning, NLP + more!",
+    "instructor": "Daniel Bourke",
+    "thumbnail": "https://static-media.hotmart.com/-8D3xZIFJDZW5fzdjIJGDUqlyxs=/705x0/https://uploads.teachablecdn.com/attachments/E2xuphTIc8cN5xvVlBwe_DW6FbGevQxKTUjInHSnR.png",
+    "link": "https://zerotomastery.io/courses/learn-tensorflow/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1240775",
+    "length": "64 Hours",
+    "lessons": 434,
+    "level": "Advanced"
+  },
+  {
+    "id": "1808210",
+    "name": "PyTorch for Deep Learning Bootcamp: Zero to Mastery",
+    "description": "Learn PyTorch. Become a Deep Learning Engineer. Get Hired. This PyTorch course is your step-by-step guide to developing your own deep learning models using PyTorch. Includes Computer Vision, Neural Networks + more!",
+    "instructor": "Daniel Bourke",
+    "thumbnail": "https://static-media.hotmart.com/GWBZcrLiWDjvVIAE5I-bCc7VpJI=/705x0/https://uploads.teachablecdn.com/attachments/eVgN7EyhQUCO0YkHFqqF_pytorch.jpg",
+    "link": "https://zerotomastery.io/courses/learn-pytorch/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1808210",
+    "length": "52 Hours",
+    "lessons": 353,
+    "level": "Advanced"
+  },
+  {
+    "id": "2583631",
+    "name": "AI Engineering Bootcamp: Build, Train & Deploy Models with AWS SageMaker",
+    "description": "Learn to build end-to-end AI applications using AWS SageMaker & Hugging Face: prepare your own datasets, train and modify your own models, then deploy and scale your AI applications into the real world.",
+    "instructor": "Patrik Szepesi",
+    "thumbnail": "https://static-media.hotmart.com/Mb9F6xxn5rv4_BkyaBMkiIRWprs=/705x0/https://uploads.teachablecdn.com/attachments/lQXSszkeSOaB7X1lNfQx_RXYuaVuR92GGfAwtCF5C.jpeg",
+    "link": "https://zerotomastery.io/courses/ai-engineer-bootcamp-aws-sagemaker/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2583631",
+    "length": "12 Hours",
+    "lessons": 99,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2664888",
+    "name": "AI Engineering Bootcamp: RAG (Retrieval Augmented Generation) for LLMs",
+    "description": "Learn to make smarter AI systems by combining LLMs with Retrieval-Augmented Generation (RAG). Learn with real-world projects like chatbots, financial analysis tools, and more using OpenAI APIs.",
+    "instructor": "Diogo Resende",
+    "thumbnail": "https://static-media.hotmart.com/dq3uu5KkDxiTYWxAZEu0wiTpVP4=/705x0/https://uploads.teachablecdn.com/attachments/bVObwCwRj6PCUcKrYGgx_FINAL2.jpg",
+    "link": "https://zerotomastery.io/courses/ai-engineer-bootcamp-retrieval-augmented-generation/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2664888",
+    "length": "22 Hours",
+    "lessons": 210,
+    "level": "Intermediate"
+  },
+  {
+    "id": "1934517",
+    "name": "AWS Certified Solutions Architect: Zero to Mastery",
+    "description": "Learn AWS from an industry expert. You'll learn AWS fundamentals all the way to advanced cloud technologies so that you'll be able to ace the solutions architect certification exam and get hired as a Cloud Architect!",
+    "instructor": "Amber Israelsen",
+    "thumbnail": "https://static-media.hotmart.com/08I5ERBF70PYDRd1xTX2r5NLLMw=/705x0/https://uploads.teachablecdn.com/attachments/4N9Pr425SxeMENqaHSaY_iH4pjzbVTFWueZ67EirQ.jpeg",
+    "link": "https://zerotomastery.io/courses/aws-certified-solutions-architect-bootcamp",
+    "courseLink": "https://academy.zerotomastery.io/courses/1934517",
+    "length": "15 Hours",
+    "lessons": 297,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2527431",
+    "name": "The Python Automation Bootcamp (Work Smarter!): Zero to Mastery",
+    "description": "Go from absolute beginner to a master at automation. Build fun projects that teach you how to automate your work and life so you can work smarter, not harder! Using tools like Python, GPTs, and more!",
+    "instructor": "Travis Cuzick",
+    "thumbnail": "https://static-media.hotmart.com/YWBVoMW9OMavJTB-mlfY9iJciEE=/705x0/https://uploads.teachablecdn.com/attachments/Aw9LCFTrQRKaR1eC5L4h_7qDQt71hT262WPZxuClM.jpeg",
+    "link": "https://zerotomastery.io/courses/learn-python-automation/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2527431",
+    "length": "22.5 Hours",
+    "lessons": 150,
+    "level": "Beginner"
+  },
+  {
+    "id": "1597713",
+    "name": "The Excel Bootcamp: Zero to Mastery",
+    "description": "Become a data wizard in Excel. Learn Excel Formulas and Functions, Data Visualization, Pivot Tables, VBA Macros, and much more. Start or supplement your career with data analysis & science skills & get hired.",
+    "instructor": "Travis Cuzick",
+    "thumbnail": "https://static-media.hotmart.com/_vxAtlw54j1hIIJlV83oMTsnRpg=/705x0/https://uploads.teachablecdn.com/attachments/BMSgiW1rS02pJWZkItcq_excel.png",
+    "link": "https://zerotomastery.io/courses/excel-bootcamp/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1597713",
+    "length": "20 Hours",
+    "lessons": 163,
+    "level": "Beginner"
+  },
+  {
+    "id": "2342042",
+    "name": "The CSS Bootcamp: Zero to Mastery",
+    "description": "Learn everything from CSS basics to advanced CSS techniques by completing 100+ exercises and projects that will wow users and prospective employers. Become a CSS Pro and create beautifully designed apps.",
+    "instructor": "Jacinto Wong",
+    "thumbnail": "https://static-media.hotmart.com/RgJpHHMUB-ly_29BKVeCI9NyKsI=/705x0/https://uploads.teachablecdn.com/attachments/EGru6dQMRoyqJaNOpc5t_k1DVl20VSxSFPfFuZhog.jpeg",
+    "link": "https://zerotomastery.io/courses/css-bootcamp/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2342042",
+    "length": "42 Hours",
+    "lessons": 238,
+    "level": "Intermediate"
+  },
+  {
+    "id": "1600953",
+    "name": "Go Programming (Golang): The Complete Developer's Guide",
+    "description": "Learn Golang from scratch, from an industry expert. Build real-world apps. You'll learn Go fundamentals all the way to advanced concurrency so that you go from beginner to being able to get hired as a Go Developer!",
+    "instructor": "Jayson Lennon",
+    "thumbnail": "https://static-media.hotmart.com/YbKFniAmBcboDaEDopGR-hoFZVQ=/705x0/https://uploads.teachablecdn.com/attachments/gwafJ0qQoKB5eCSoLMSO_AARmjDIrS8qgxGdsYsIt.jpeg",
+    "link": "https://zerotomastery.io/courses/learn-golang/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1600953",
+    "length": "13.5 Hours",
+    "lessons": 140,
+    "level": "Intermediate"
+  },
+  {
+    "id": "1363752",
+    "name": "Rust Programming: The Complete Developer's Guide",
+    "description": "Learn the Rust programming language from scratch! Learn how to code & build real-world applications using Rust so that you can get hired as a top programmer. No experience needed.",
+    "instructor": "Jayson Lennon",
+    "thumbnail": "https://static-media.hotmart.com/W3-MmN8BEojLQvkAAlbmk6Pu6Ck=/705x0/https://uploads.teachablecdn.com/attachments/FTuXAif8RUCIJxrMLwMJ_PKCrVFeSQqVr1yTafBpQ.jpeg",
+    "link": "https://zerotomastery.io/courses/learn-rust",
+    "courseLink": "https://academy.zerotomastery.io/courses/1363752",
+    "length": "20 Hours",
+    "lessons": 228,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2044298",
+    "name": "Three.js Bootcamp: Zero to Mastery",
+    "description": "Learn Three.js from scratch and build your own 3D interactive portfolio. This course is for developers serious about taking their coding and design skills to the next level.",
+    "instructor": "Jesse Zhou",
+    "thumbnail": "https://static-media.hotmart.com/lp04dYwm4CccCcJhcAHcBFjJeYA=/705x0/https://uploads.teachablecdn.com/attachments/JAmqXYpRyF6QNjOP6Gg9_2T8T9kUTmOXyd1CWYtqy.jpeg",
+    "link": "https://zerotomastery.io/courses/learn-three-js/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2044298",
+    "length": "20 Hours",
+    "lessons": 165,
+    "level": "Advanced"
+  },
+  {
+    "id": "2011869",
+    "name": "Java Programming Bootcamp: Zero to Mastery",
+    "description": "Learn Java from scratch. The only Java course you need to go from complete beginner to learning Java from scratch (fundamentals all the way to advanced skills) and being able to get hired as a Backend Developer!",
+    "instructor": "Maaike van Putten",
+    "thumbnail": "https://static-media.hotmart.com/EPrMbcQqRnEN2kQYto4zmj70MdI=/705x0/https://uploads.teachablecdn.com/attachments/J0dyor7gRhucKZqFXClp_0r11ThVtTFepGt9N25ZH.jpeg",
+    "link": "https://zerotomastery.io/courses/java-bootcamp/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2011869",
+    "length": "12 Hours",
+    "lessons": 336,
+    "level": "Beginner"
+  },
+  {
+    "id": "2025735",
+    "name": "C#/.NET Bootcamp: Full-Stack Web Development (w/ ASP.NET Core and Blazor)",
+    "description": "Learn C#/.NET, among the most popular and in-demand coding tools. Learn to build applications for web, mobile, IoT, and gaming. No previous experience needed.",
+    "instructor": "Claudio Bernasconi",
+    "thumbnail": "https://static-media.hotmart.com/eU__Oi9mPVsZxeREbpZsuNA0MJE=/705x0/https://uploads.teachablecdn.com/attachments/tP7wDRS3QhyL6AjT7ueT_Course+Thumbnail+C-.NET.jpg",
+    "link": "https://zerotomastery.io/courses/csharp-net-bootcamp/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2025735",
+    "length": "15.5 Hours",
+    "lessons": 228,
+    "level": "Beginner"
+  },
+  {
+    "id": "1134428",
+    "name": "Complete Ethical Hacking Bootcamp 2025: Zero to Mastery",
+    "description": "Learn Ethical Hacking and Penetration Testing from scratch and master the most modern ethical hacking tools and best practices!",
+    "instructor": "Aleksa Tamburkovski",
+    "thumbnail": "https://static-media.hotmart.com/k5mHPiDpBR1jb8DtWs9EhcCAHAI=/705x0/https://uploads.teachablecdn.com/attachments/EBjZjI2Try1RNs4yoBmU_7fpHNyYRu240nmXzBBW3.jpeg",
+    "link": "https://zerotomastery.io/courses/learn-ethical-hacking/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1134428",
+    "length": "29 Hours",
+    "lessons": 270,
+    "level": "Beginner"
+  },
+  {
+    "id": "2664901",
+    "name": "Advanced Ethical Hacking Bootcamp: Network Hacking & Security",
+    "description": "Take your ethical hacking skills to the next level. Learn how to exploit network vulnerabilities, bypass security measures, and craft your own exploits from scratch in this advanced network hacking course.",
+    "instructor": "Aleksa Tamburkovski",
+    "thumbnail": "https://static-media.hotmart.com/zYU2bemDo-Y1O3KD1ZlySYH89Bk=/705x0/https://uploads.teachablecdn.com/attachments/UbH4TyOgSEtcRUrmhnZA_Course+Thumbnail+-+Advanced+Ethical+Hacking+-+final2.jpg",
+    "link": "https://zerotomastery.io/courses/advanced-ethical-hacking/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2664901",
+    "length": "7.5 Hours",
+    "lessons": 76,
+    "level": "Advanced"
+  },
+  {
+    "id": "1613746",
+    "name": "Complete Cybersecurity Bootcamp: Zero to Mastery",
+    "description": "Go from zero to hired as a Cyber Security Engineer. Learn the latest cybersecurity best practices, techniques, and tools so that you can build and defend your digital assets against hackers.",
+    "instructor": "Aleksa Tamburkovski",
+    "thumbnail": "https://static-media.hotmart.com/gDEJnIk5KOLuKC6NW24Ts5OBlDA=/705x0/https://uploads.teachablecdn.com/attachments/KG840xcTXKddQgAKhzA9_l8qZDneSpCRNzc7sn3wE.jpeg",
+    "link": "https://zerotomastery.io/courses/learn-cybersecurity-bootcamp/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1613746",
+    "length": "11 Hours",
+    "lessons": 98,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2545876",
     "name": "The Networking Bootcamp (CompTIA Network+ Certification)",
-    "link": "https://zerotomastery.io/courses/networking-bootcamp/"
+    "description": "Go from complete beginner to acing the globally-recognized CompTIA Network+ certification exam. You'll learn the latest networking best practices, techniques, and tools.",
+    "instructor": "Aleksa Tamburkovski",
+    "thumbnail": "https://static-media.hotmart.com/uvpFZQgl5OYYegVMyZLde2Q7vEE=/705x0/https://uploads.teachablecdn.com/attachments/GXRyIo9PRKOJ17Ldxvjy_eUbOtTI6R62Kvyen9vX9.jpeg",
+    "link": "https://zerotomastery.io/courses/networking-bootcamp/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2545876",
+    "length": "9 Hours",
+    "lessons": 110,
+    "level": "Beginner"
+  },
+  {
+    "id": "2079571",
+    "name": "CompTIA Security+ Certification Bootcamp",
+    "description": "Go from complete beginner to acing the globally-recognized CompTIA Security+ certification exam. You'll learn the latest cybersecurity best practices, techniques, and tools.",
+    "instructor": "Aleksa Tamburkovski",
+    "thumbnail": "https://static-media.hotmart.com/NflzGuUiTxsEzROFHp5U0RTcdbc=/705x0/https://uploads.teachablecdn.com/attachments/mp5zldKzSt6JhiYULyP1_CRYIp3BmTaOrABIpeXYW.jpeg",
+    "link": "https://zerotomastery.io/courses/security-plus-boot-camp/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2079571",
+    "length": "9 Hours",
+    "lessons": 91,
+    "level": "Intermediate"
+  },
+  {
+    "id": "1412032",
+    "name": "Web Security & Bug Bounty: Learn Penetration Testing",
+    "description": "Become a Bug Bounty Hunter. Hack websites, fix vulnerabilities, improve web security and much more. You'll learn penetration testing from scratch and master the most modern pentesting tools & best practices for 2025!",
+    "instructor": "Aleksa Tamburkovski",
+    "thumbnail": "https://static-media.hotmart.com/tr29lA6MLqnKvY7sjHjhW7XBxLg=/705x0/https://uploads.teachablecdn.com/attachments/YQH7RnCLQwC6bDVRwIjV_T8Z3ChFJSuyuNJprlDnU.jpeg",
+    "link": "https://zerotomastery.io/courses/learn-penetration-testing",
+    "courseLink": "https://academy.zerotomastery.io/courses/1412032",
+    "length": "11.5 Hours",
+    "lessons": 105,
+    "level": "Beginner"
+  },
+  {
+    "id": "1422911",
+    "name": "DevOps Bootcamp: Learn Linux & Become a Linux Sysadmin",
+    "description": "This DevOps Bootcamp will take you from an absolute beginner in Linux to getting hired as a confident and effective Linux Sysadmin. Includes Ansible, Docker, IPFS + more!",
+    "instructor": "Andrei Dumitrescu",
+    "thumbnail": "https://static-media.hotmart.com/PHD_qaSPJPyjB5m30O3y3N35Pio=/705x0/https://uploads.teachablecdn.com/attachments/CZiMHngyQOWDg4PvUmWx_CFM0CnXfT9u69b1lzAs7.png",
+    "link": "https://zerotomastery.io/courses/devops-bootcamp/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1422911",
+    "length": "25 Hours",
+    "lessons": 213,
+    "level": "Beginner"
+  },
+  {
+    "id": "1676409",
+    "name": "Web3 Masterclass: Blockchain, DApps, DAOs + More",
+    "description": "Learn all about web3, the future of the web! This course will get you up to speed on everything you need to know about web3 including topics like Blockchain, Cryptocurrencies, Smart Contracts, DApps, DAOs, NFTs, + more.",
+    "instructor": "Adam Odziemkowski",
+    "thumbnail": "https://static-media.hotmart.com/4xtqreJIhyBtEqojjrAXWzRMtz8=/705x0/https://uploads.teachablecdn.com/attachments/M2mdFaBBR7Gywcgl7zT9_83ac9769283f4a27ac1b2a923f60a2e8.png",
+    "link": "https://zerotomastery.io/courses/introduction-to-web3",
+    "courseLink": "https://academy.zerotomastery.io/courses/1676409",
+    "length": "5 Hours",
+    "lessons": 36,
+    "level": "Beginner"
+  },
+  {
+    "id": "1934518",
+    "name": "Django Bootcamp: Zero to Mastery",
+    "description": "Learn Django from an industry expert. You'll learn Django fundamentals all the way to advanced skills while building real-world apps so that you can go from beginner to being able to get hired as a Django Developer!",
+    "instructor": "Dominic Vacchiano",
+    "thumbnail": "https://static-media.hotmart.com/aTZKPtvRhnIo0OMFF0U34g5QHk4=/705x0/https://uploads.teachablecdn.com/attachments/ZiIcN4OyTKSq0wuBm0KS_fPDxzvZTR1m7aYujTqG7.jpeg",
+    "link": "https://zerotomastery.io/courses/django-bootcamp/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1934518",
+    "length": "8 Hours",
+    "lessons": 106,
+    "level": "Intermediate"
+  },
+  {
+    "id": "1964950",
+    "name": "Unity Bootcamp: 3D Game Development",
+    "description": "This is the only Unity course you need to go from complete beginner (no coding experience) to coding your own 3D games and getting hired as a Game Developer this year!",
+    "instructor": "Luis Ramirez Jr",
+    "thumbnail": "https://static-media.hotmart.com/9l96J22T6Fr6xz-EF2AdGuMi7nI=/705x0/https://uploads.teachablecdn.com/attachments/NIvHbRPOpAjEqbH0hgL1_nyzYztrxR3XPAFZ01ZmB.jpeg",
+    "link": "https://zerotomastery.io/courses/learn-unity-bootcamp",
+    "courseLink": "https://academy.zerotomastery.io/courses/1964950",
+    "length": "26 Hours",
+    "lessons": 356,
+    "level": "Beginner"
+  },
+  {
+    "id": "1007166",
+    "name": "JavaScript Web Projects: 20 Projects to Build Your Portfolio",
+    "description": "Get hired or your first client by building your dream portfolio of modern, real-world JavaScript projects. Never spend time on confusing, out of date, incomplete tutorials anymore!",
+    "instructor": "Jacinto Wong",
+    "thumbnail": "https://static-media.hotmart.com/NUwsjybKEP46f1wDYSZgnTwl_AM=/705x0/https://uploads.teachablecdn.com/attachments/9r6vmAIYQNmURIchMhY5_3ifdnHczTOiBVACQxrgX.png",
+    "link": "https://zerotomastery.io/courses/javascript-projects/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1007166",
+    "length": "34 Hours",
+    "lessons": 257,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2658540",
+    "name": "Advanced CSS & JavaScript Projects",
+    "description": "Build interactive web apps with CSS & JavaScript! Create real-world projects like an Expense Tracker, Podcast Player, and more. Master skills like responsive design, data visualization, API integration, and deployment.",
+    "instructor": "Jacinto Wong",
+    "thumbnail": "https://static-media.hotmart.com/qdFT7_K01dCloDiRfOB6ZM00zzM=/705x0/https://uploads.teachablecdn.com/attachments/JZvg3NohQC2JVb27MGmf_bkAnjnl9RMqZPGbruW9x.jpeg",
+    "link": "https://zerotomastery.io/courses/front-end-projects/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2658540",
+    "length": "15.5 Hours",
+    "lessons": 96,
+    "level": "Advanced"
+  },
+  {
+    "id": "1495820",
+    "name": "Motion Design with Figma: Animations, Motion Graphics, UX/UI",
+    "description": "Learn motion design using Figma from a design industry pro. This projects-based course will teach you how to use motion to take your designs (and portfolio) to the next level.",
+    "instructor": "Daniel Schifano",
+    "thumbnail": "https://static-media.hotmart.com/1VnZVa4H9X1aNhVDYANDqqBNoHs=/705x0/https://uploads.teachablecdn.com/attachments/darZEpt6Q6WZLSqBDgNx_pkFdzyMITsu7XQmw8RBO.jpeg",
+    "link": "https://zerotomastery.io/courses/learn-motion-design",
+    "courseLink": "https://academy.zerotomastery.io/courses/1495820",
+    "length": "14 Hours",
+    "lessons": 139,
+    "level": "Intermediate"
+  },
+  {
+    "id": "1442029",
+    "name": "Complete Guide to Freelancing in 2025: Zero to Mastery",
+    "description": "Start a career or earn a side income by becoming a Freelancer. No experience needed. You'll learn the exact steps to get high-paying clients and live your dream life.",
+    "instructor": "Paul Mendes",
+    "thumbnail": "https://static-media.hotmart.com/VX-uYHSl07hcNyPkaqHdbMCh7VE=/705x0/https://uploads.teachablecdn.com/attachments/uTXlt7SgTbyF7ssZ4qKn_R1oZx0JiS86uKaCtLtoP.jpeg",
+    "link": "https://zerotomastery.io/courses/become-a-freelancer",
+    "courseLink": "https://academy.zerotomastery.io/courses/1442029",
+    "length": "12 Hours",
+    "lessons": 82,
+    "level": "Beginner"
+  },
+  {
+    "id": "1649331",
+    "name": "Consulting: The Complete Freelancer's Guide",
+    "description": "Use your existing skills to create a career or earn a side income by becoming a Freelance Consultant. You'll learn the exact steps to get high-paying clients and build an exciting career.",
+    "instructor": "Paul Mendes",
+    "thumbnail": "https://static-media.hotmart.com/t_WKBOho0QjvTSrOhGPM0UZCdiA=/705x0/https://uploads.teachablecdn.com/attachments/TsI7kJIORk28RxJUB2KQ_04ca25c7797b4e9dab06cbf39df73b51.png",
+    "link": "https://zerotomastery.io/courses/learn-freelance-consulting",
+    "courseLink": "https://academy.zerotomastery.io/courses/1649331",
+    "length": "5 Hours",
+    "lessons": 48,
+    "level": "Advanced"
+  },
+  {
+    "id": "2758475",
+    "name": "Career Accelerator with TechTalk",
+    "description": "Learn how to land your first job through expert insights on the tech industry, including advice from career coaches and interviews with agency and in-house tech recruiters.",
+    "instructor": "Roxanne Taku & Joana Rocha",
+    "thumbnail": "https://static-media.hotmart.com/i0fbO1N3grU82Nni0PzqQGH8Z8E=/705x0/https://uploads.teachablecdn.com/attachments/CRdwHTxNRjK3QpXKChCX_Course+Thumbnail+-+Career+Accelerator+with+TechTalk+%285%29.jpg",
+    "link": "https://zerotomastery.io/courses/career-accelerator/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2758475",
+    "length": "8 Hours",
+    "lessons": 54,
+    "level": "Intermediate"
+  },
+  {
+    "id": "1446800",
+    "name": "SEO Bootcamp: Learn Search Engine Optimization",
+    "description": "Learn SEO best practices from scratch. Easy to understand and simple, actionable steps to start driving organic search traffic to your website. This is an essential skill to add to your toolkit.",
+    "instructor": "Scott Stockdale",
+    "thumbnail": "https://static-media.hotmart.com/m5CZjQQjoRlLwYlSkt71dQhNI40=/705x0/https://uploads.teachablecdn.com/attachments/hePnzxJHQaWQB6kUh5zg_vj3Tu7WTRef0GJS4RpSg.jpeg",
+    "link": "https://zerotomastery.io/courses/seo-content-optimization",
+    "courseLink": "https://academy.zerotomastery.io/courses/1446800",
+    "length": "12 Hours",
+    "lessons": 155,
+    "level": "Beginner"
+  },
+  {
+    "id": "2123984",
+    "name": "TypeScript Bootcamp: Zero to Mastery",
+    "description": "Learn TypeScript from scratch by building your own real-world apps. This course is for developers serious about taking their coding skills and career to the next level.",
+    "instructor": "Jayson Lennon",
+    "thumbnail": "https://static-media.hotmart.com/yIhrV05tVoz-y3cZT_wcr4ExEIo=/705x0/https://uploads.teachablecdn.com/attachments/KYCZcDETTKLnWmyGzLSs_ca9CxlsrQvOWTkgMzxZw.png",
+    "link": "https://zerotomastery.io/courses/typescript-bootcamp/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2123984",
+    "length": "12 Hours",
+    "lessons": 125,
+    "level": "Advanced"
+  },
+  {
+    "id": "2416186",
+    "name": "PHP Development Bootcamp: Zero to Mastery",
+    "description": "This is the only PHP course you need to go from complete beginner to coding your own PHP applications. Includes CRUD, File Uploads, Authentication, MySQL, Deployment, Containers and more!",
+    "instructor": "Luis Ramirez Jr",
+    "thumbnail": "https://static-media.hotmart.com/bea2Qop-UhkhtOUy6MuYmMebPqI=/705x0/https://uploads.teachablecdn.com/attachments/3fqaymrTGaVqjIZVmdKQ_u1kgT7RKOxCGBNcrbAyH.jpeg",
+    "link": "https://zerotomastery.io/courses/learn-php-bootcamp/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2416186",
+    "length": "24 Hours",
+    "lessons": 332,
+    "level": "Beginner"
+  },
+  {
+    "id": "2025754",
+    "name": "Remix (React Router) Bootcamp: Zero to Mastery",
+    "description": "Learn Remix from scratch and build better websites. This course is for Web Developers serious about taking their coding skills and career to the next level using this React Framework!",
+    "instructor": "Zach Taylor",
+    "thumbnail": "https://static-media.hotmart.com/TsqC1rpd43FcCWGhE0dExuwMQug=/705x0/https://uploads.teachablecdn.com/attachments/TP0H3dlCTGuRquPU1LQS_Remix+-+Course+Thumbnail.jpg",
+    "link": "https://zerotomastery.io/courses/learn-remix-run/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2025754",
+    "length": "26 Hours",
+    "lessons": 287,
+    "level": "Advanced"
+  },
+  {
+    "id": "1411345",
+    "name": "Complete Next.js Developer: Zero to Mastery",
+    "description": "Learn NextJS from experts. The only Next JS course you need to learn this popular React framework. Build large-scale apps (like Netflix!) from scratch and get hired as a Next.js Developer this year!",
+    "instructor": "Andrei Neagoie",
+    "thumbnail": "https://static-media.hotmart.com/1Goq9MeI2NxzpsXHC_YWv-J-KxE=/705x0/https://uploads.teachablecdn.com/attachments/Uek9fivtRsK08jwpbKNF_qOAL0DgPQuuVFilDpips.jpeg",
+    "link": "https://zerotomastery.io/courses/learn-next-js",
+    "courseLink": "https://academy.zerotomastery.io/courses/1411345",
+    "length": "38 Hours",
+    "lessons": 454,
+    "level": "Advanced"
+  },
+  {
+    "id": "1209915",
+    "name": "Complete Vue Developer in 2025: Zero to Mastery (Pinia, Vitest)",
+    "description": "The only Vue.js tutorial + projects course you need to learn VueJS (including all new Vue 3 features), build large-scale Vue applications from scratch & get hired as a Vue Developer in 2025. Go from zero to Vue Mastery.",
+    "instructor": "Luis Ramirez Jr",
+    "thumbnail": "https://static-media.hotmart.com/CM6GMIhIBHs2UWxCywZVWw_DN3M=/705x0/https://uploads.teachablecdn.com/attachments/o50RbIIgTB2djod92Mso_e6LTXsBQAOKcqAIyPT9g.png",
+    "link": "https://zerotomastery.io/courses/learn-vue-js/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1209915",
+    "length": "30.5 Hours",
+    "lessons": 296,
+    "level": "Intermediate"
+  },
+  {
+    "id": "1590301",
+    "name": "Complete Angular Developer in 2025: Zero to Mastery",
+    "description": "Learn Python from scratch, get hired, and have fun along the way with the most modern, up-to-date Python course on the web.",
+    "instructor": "Andrei Neagoie",
+    "thumbnail": "https://static-media.hotmart.com/ZTP3wV6b_TKxpmxnz59k66PCp5w=/705x0/https://uploads.teachablecdn.com/attachments/6f7EvQcQQDOX68j9TUyt_ThD5MthmSj2QpmOfwhke.jpeg",
+    "link": "https://zerotomastery.io/courses/learn-python/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1590301",
+    "length": "32 Hours",
+    "lessons": 346,
+    "level": "Beginner"
+  },
+  {
+    "id": "2011868",
+    "name": "Flutter Bootcamp: Zero to Mastery",
+    "description": "Learn Flutter from an industry expert. The only Flutter course you need to go from complete beginner to developing iOS and Android apps with Flutter to being able to get hired as a Mobile App Developer!",
+    "instructor": "Tadas Petra",
+    "thumbnail": "https://static-media.hotmart.com/tKDc8WkENjxUbSIiWQZdmSmVxEY=/705x0/https://uploads.teachablecdn.com/attachments/Xx3lrNhoSpKy6TzYXsci_43BtJ6MS6GWACxq7Z3hA.png",
+    "link": "https://zerotomastery.io/courses/flutter-bootcamp/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2011868",
+    "length": "10 Hours",
+    "lessons": 101,
+    "level": "Intermediate"
+  },
+  {
+    "id": "1389133",
+    "name": "Dart: The Complete Developer's Guide",
+    "description": "Learn Dart programming in depth from an actual Google Developer Expert. This is the only Dart tutorial + projects course you need to learn Dart and build real-world native applications from scratch.",
+    "instructor": "Andrea Bizzotto",
+    "thumbnail": "https://static-media.hotmart.com/XuDSqsz6CLZXGwtZgM2eAdGgJyQ=/705x0/https://uploads.teachablecdn.com/attachments/tzKEiLa3QZ2nUJdHQXF4_kM19nXqfR92huybVxbwh.png",
+    "link": "https://zerotomastery.io/courses/learn-dart/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1389133",
+    "length": "10 Hours",
+    "lessons": 184,
+    "level": "Beginner"
+  },
+  {
+    "id": "1050496",
+    "name": "Complete React Native Developer in 2025: Zero to Mastery [with Hooks]",
+    "description": "The only React Native course you need to learn React Native, build large-scale React Native iOS + Android apps from scratch and get hired as a Mobile App Developer in 2025.",
+    "instructor": "Andrei Neagoie",
+    "thumbnail": "https://static-media.hotmart.com/aqoVu6B6hs-4pkOmOI9ZEV6R9mI=/705x0/https://uploads.teachablecdn.com/attachments/SljYN3pwQp6pVwStClWo_tI5VBfGURrZ0GRxtrwKi.png",
+    "link": "https://zerotomastery.io/courses/learn-react-native/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1050496",
+    "length": "28.5 Hours",
+    "lessons": 343,
+    "level": "Intermediate"
+  },
+  {
+    "id": "1676407",
+    "name": "Solidity, Ethereum and Blockchain: The Complete Developer's Guide",
+    "description": "Learn Solidity from scratch with this Blockchain Developer Bootcamp. You'll go from beginner to building your own web3 projects and getting hired as a Blockchain Developer.",
+    "instructor": "Markus Waas",
+    "thumbnail": "https://static-media.hotmart.com/1x0pMWOnY4Lez-NSkmwkLVSOBcY=/705x0/https://uploads.teachablecdn.com/attachments/tOKAUrUOTHm3nfDaW3hO_7Xu63bljQ5yVDWHCyZIP.jpeg",
+    "link": "https://zerotomastery.io/courses/blockchain-developer-bootcamp",
+    "courseLink": "https://academy.zerotomastery.io/courses/1676407",
+    "length": "13 Hours",
+    "lessons": 190,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2341549",
+    "name": "Statistics Bootcamp (with Python): Zero to Mastery",
+    "description": "Learn Statistics from an industry expert. With more than 24 projects, quizzes, tests, and challenges, and utilizing ChatGPT to work with data more effectively, this is the perfect hands-on course to launch your career.",
+    "instructor": "Diogo Resende",
+    "thumbnail": "https://static-media.hotmart.com/ndcBPXMjLTBx33MrHrmSom9lnK8=/705x0/https://uploads.teachablecdn.com/attachments/ZeXTpI8kTWPj25BTNUZ0_VgYDVLqGTQ2ZF2khnJi5.png",
+    "link": "https://zerotomastery.io/courses/learn-statistics-with-python/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2341549",
+    "length": "25 Hours",
+    "lessons": 259,
+    "level": "Beginner"
+  },
+  {
+    "id": "1630766",
+    "name": "Business Analytics Bootcamp (with Python): Zero to Mastery",
+    "description": "Learn Business Data Analytics from an industry expert by using Python, real-world datasets and cutting edge tools. Learn everything from the fundamentals to expert techniques to get hired as a Business Data Analyst!",
+    "instructor": "Diogo Resende",
+    "thumbnail": "https://static-media.hotmart.com/_soFILHIixija3it9-t3HNtRilU=/705x0/https://uploads.teachablecdn.com/attachments/Se0L10iKQNSe4fmKmt5l_xNtFZQ0eLlA963s4Zws5.png",
+    "link": "https://zerotomastery.io/courses/learn-business-analytics",
+    "courseLink": "https://academy.zerotomastery.io/courses/1630766",
+    "length": "22 Hours",
+    "lessons": 323,
+    "level": "Intermediate"
+  },
+  {
+    "id": "1891411",
+    "name": "Time Series Forecasting with Python",
+    "description": "This project-based course will teach you how to build a tool that predicts demand for Airbnb properties in New York and become a Business Data Analyst.",
+    "instructor": "Diogo Resende",
+    "thumbnail": "https://static-media.hotmart.com/L6vz-UEatxrpXyC3Fl82ACFm49g=/705x0/https://uploads.teachablecdn.com/attachments/1OwvewutSIGMyPmkgahy_Q9o1A2qTEiXp7CDbT3Yg.png",
+    "link": "https://zerotomastery.io/courses/time-series-forecasting",
+    "courseLink": "https://academy.zerotomastery.io/courses/1891411",
+    "length": "10 Hours",
+    "lessons": 135,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2011442",
+    "name": "Power BI Bootcamp: Zero to Mastery",
+    "description": "Go from absolute beginner in Power BI to getting hired as a confident and effective Analyst. Learn Power BI (+ much more) by analyzing real-world datasets and building enterprise-level projects.",
+    "instructor": "Travis Cuzick",
+    "thumbnail": "https://static-media.hotmart.com/5_uo54SY8KSnVgk0SK9reCfXOCk=/705x0/https://uploads.teachablecdn.com/attachments/ErsS9eWeQtanPLJlBkNC_t5eTAHJUTTCtn8vcqKEJ.jpeg",
+    "link": "https://zerotomastery.io/courses/learn-power-bi-bootcamp/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2011442",
+    "length": "20 Hours",
+    "lessons": 136,
+    "level": "Advanced"
+  },
+  {
+    "id": "1806594",
+    "name": "Advanced Excel Bootcamp: Data Analytics and Business Intelligence",
+    "description": "Become a Data Professional. You'll learn to master Excel's built-in power tools, including Power Query, Power Pivot Tables, Data Modeling, the DAX formula language, and so much more.",
+    "instructor": "Travis Cuzick",
+    "thumbnail": "https://static-media.hotmart.com/Roi_S3ohxJt_xgin3IYhf_4B98c=/705x0/https://uploads.teachablecdn.com/attachments/uSlzNm9RWaDwgSlV5oWW_Ar6Ma3YcSZuHGE76b2TL.png",
+    "link": "https://zerotomastery.io/courses/business-intelligence-course/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1806594",
+    "length": "8 Hours",
+    "lessons": 77,
+    "level": "Advanced"
+  },
+  {
+    "id": "1757575",
+    "name": "VBA Programming for Excel: Zero to Mastery",
+    "description": "Become a data analytics wizard by using VBA Programming in Excel.",
+    "instructor": "Travis Cuzick",
+    "thumbnail": "https://static-media.hotmart.com/u_llEPt2qDlybpH1vPiaU4J9ZtU=/705x0/https://uploads.teachablecdn.com/attachments/4ux83T13TkukbOQwRWQW_UeXAl8GQJyVuuoKOm5fj.png",
+    "link": null,
+    "courseLink": "https://academy.zerotomastery.io/courses/1757575",
+    "length": null,
+    "lessons": null,
+    "level": null
+  },
+  {
+    "id": "1915065",
+    "name": "Bash Scripting: Learn Shell Scripting",
+    "description": "Learn Bash Scripting from scratch, from an industry expert. You'll learn Shell Scripting fundamentals plus get the practice and experience to get hired as a DevOps Engineer, SysAdmin, or Network Engineer.",
+    "instructor": "Andrei Dumitrescu",
+    "thumbnail": "https://static-media.hotmart.com/JQX0bU7j8Ayya3zk94YgrcYhXGU=/705x0/https://uploads.teachablecdn.com/attachments/049BFVTBqiWrDdBjR2RA_zLiJakPeSTC2at6VtqPq.jpeg",
+    "link": "https://zerotomastery.io/courses/learn-bash-scripting/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1915065",
+    "length": "10 Hours",
+    "lessons": 120,
+    "level": "Intermediate"
+  },
+  {
+    "id": "1672649",
+    "name": "DevOps Bootcamp: Terraform",
+    "description": "Learn Terraform from scratch, from an industry expert. You'll learn Terraform fundamentals all the way to advanced, in-depth expertise so that you go from beginner to being able to get certified as a Terraform Associate!",
+    "instructor": "Andrei Dumitrescu",
+    "thumbnail": "https://static-media.hotmart.com/PZ-Kw7P9jcPyAALZefLXuWClG0g=/705x0/https://uploads.teachablecdn.com/attachments/uni18fgMTMuSzaB0vFn4_W2sJitCRK2hLneAVmmiS.jpeg",
+    "link": "https://zerotomastery.io/courses/learn-terraform-certification/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1672649",
+    "length": "8 Hours",
+    "lessons": 95,
+    "level": "Intermediate"
+  },
+  {
+    "id": "1753491",
+    "name": "How to be Happy: Life System Design",
+    "description": "You will increase your mental game and emotional intelligence for a happier life! This step-by-step guide will teach you 12 new life systems and help you turn them into lasting habits.",
+    "instructor": "Andrei Neagoie",
+    "thumbnail": "https://static-media.hotmart.com/tphhzBhhIjpOvkAMEtQbpVy2TYQ=/705x0/https://uploads.teachablecdn.com/attachments/7EmzYBCeTb2UE99VU4ls_fqQ07mB5RfGdHgf8G6wi.jpeg",
+    "link": "https://zerotomastery.io/courses/life-system-design",
+    "courseLink": "https://academy.zerotomastery.io/courses/1753491",
+    "length": "2 Hours",
+    "lessons": 12,
+    "level": "Beginner"
+  },
+  {
+    "id": "1649330",
+    "name": "Learning to Meditate [Productivity & Focus]",
+    "description": "Learn to meditate from scratch to master your mental game & advance your career. Take the 30 Day Challenge to build a lasting habit that will make you a better candidate, a more productive employee, and a happier person.",
+    "instructor": "Oana Dragan",
+    "thumbnail": "https://static-media.hotmart.com/2PwCNskeyHgOBGUWkmLnosze1cA=/705x0/https://uploads.teachablecdn.com/attachments/2j9cbs4AQTCk7mtr2k9C_ZcFxvICsRqKGrZMVnG1M.jpeg",
+    "link": "https://zerotomastery.io/courses/learn-meditation-for-productivity",
+    "courseLink": "https://academy.zerotomastery.io/courses/1649330",
+    "length": "5.5 Hours",
+    "lessons": 50,
+    "level": "Beginner"
+  },
+  {
+    "id": "1779766",
+    "name": "ZTM Fitness: Get Healthier in 4 Weeks",
+    "description": "4-Week Exercise Bootcamp created specifically for programmers & tech workers. In only 4 weeks, you'll build a new habit that will make you healthier, more productive, happier, and help you become a better version of you.",
+    "instructor": "Kristi Storoschuk",
+    "thumbnail": "https://static-media.hotmart.com/RT0zJNapVTdNfWTREEBZdMcvTGE=/705x0/https://uploads.teachablecdn.com/attachments/Hozm2e1QR6eWmOOkQVyB_ba1834ee2704492b8842a2108e8c2d41.png",
+    "link": "https://zerotomastery.io/courses/exercise-bootcamp",
+    "courseLink": "https://academy.zerotomastery.io/courses/1779766",
+    "length": "2 Hours",
+    "lessons": 18,
+    "level": "Beginner"
+  },
+  {
+    "id": "1995325",
+    "name": "Testing: The Complete Developer's Guide",
+    "description": "The most comprehensive, all-in-one software testing course online. Learn unit testing, API backend testing, E2E testing and everything in between using JavaScript, Python, React, Node, Rust, Vue, Angular + more!",
+    "instructor": "Andrei Neagoie",
+    "thumbnail": "https://static-media.hotmart.com/IQVM9hWdSm0ghYxl3-hZSgBerCw=/705x0/https://uploads.teachablecdn.com/attachments/laSMjcf2S5uP8waBBA6Y_testing.jpg",
+    "link": "https://zerotomastery.io/courses/software-testing-course/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1995325",
+    "length": "12 Hours",
+    "lessons": 116,
+    "level": "Advanced"
+  },
+  {
+    "id": "945092",
+    "name": "Deno: The Complete Guide Zero to Mastery",
+    "description": "Will Deno replace NodeJS?! Probably not, but it will have its place. Ryan Dahl (the creator) made major improvements from Node vs. Deno. This course will teach you everything you need to become a Deno Developer!",
+    "instructor": "Adam Odziemkowski",
+    "thumbnail": "https://static-media.hotmart.com/IsfzcRpNeCdmXvpn7m5V1RrtPvs=/705x0/https://uploads.teachablecdn.com/attachments/UOEUuotrQvCQJ46OTfk1_E06UpqTT8Ccofe6nzPYl.png",
+    "link": "https://zerotomastery.io/courses/learn-deno/",
+    "courseLink": "https://academy.zerotomastery.io/courses/945092",
+    "length": "14 Hours",
+    "lessons": 180,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2064593",
+    "name": "The Complete Career Toolkit: Personal Branding, Resume Building + more",
+    "description": "Let's get serious about reaching your career goals. We'll help you set yourself apart from everyone else by building your personal brand + a professional resume, cover letter & portfolio website that make you STAND OUT.",
+    "instructor": "Daniel Schifano",
+    "thumbnail": "https://static-media.hotmart.com/ydc3SqDt1FvBcFyRsvd5z1m2Vsc=/705x0/https://uploads.teachablecdn.com/attachments/W2oIEBsMSt63n6yGBqCb_CareerToolkit.jpg",
+    "link": "https://zerotomastery.io/courses/personal-branding/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2064593",
+    "length": "8 Hours",
+    "lessons": 98,
+    "level": "Beginner"
+  },
+  {
+    "id": "2402481",
+    "name": "Welcome to the Bytes Section!",
+    "description": "",
+    "instructor": "Zero To Mastery Instructor Team",
+    "thumbnail": "https://static-media.hotmart.com/UZ6aosLU4MgOmEJyuQu4AxdvzMA=/705x0/https://uploads.teachablecdn.com/attachments/aKdypKDqQhOz5xblc2TE_Blue+%286%29.png",
+    "link": null,
+    "courseLink": "https://academy.zerotomastery.io/courses/2402481",
+    "length": null,
+    "lessons": null,
+    "level": null
+  },
+  {
+    "id": "2805702",
+    "name": "Learn MCP (Model Context Protocol)",
+    "description": "Learn how to work with the MCP (Model Context Protocol) to optimize connecting AI to external sources, improve model capabilities, and land AI Engineering roles.",
+    "instructor": "Diogo Resende",
+    "thumbnail": "https://static-media.hotmart.com/BM2phnos0oNtCQI9lA-HdgGla_E=/705x0/https://uploads.teachablecdn.com/attachments/a2a81dc3af0443119c3a22b5b476add2.jpg",
+    "link": "https://zerotomastery.io/courses/learn-mcp/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2805702",
+    "length": "1 Hours",
+    "lessons": 13,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2757575",
+    "name": "Build Four Awesome Unity Games with Zero Experience",
+    "description": "Build your own versions of the classic video games Pong, Breakout, Space Invaders, and Flappy Bird using Unity - no coding or game development experience required!",
+    "instructor": "Mike Sirman",
+    "thumbnail": "https://static-media.hotmart.com/cmJSfANa6c8JqOHIpgpZj0mkDgM=/705x0/https://uploads.teachablecdn.com/attachments/h8a6dfHuRoigbeG5Alvk_Blue+%2840%29.jpg",
+    "link": "https://zerotomastery.io/courses/beginner-unity-projects/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2757575",
+    "length": "10.5 Hours",
+    "lessons": 99,
+    "level": "Beginner"
+  },
+  {
+    "id": "2785781",
+    "name": "AI Engineering: Fine-Tuning LLMs",
+    "description": "Learn how to fine-tune OpenAI’s GPT models for custom use cases. This course gives you practical, hands-on experience shaping LLMs to fit your unique goals.",
+    "instructor": "Diogo Resende",
+    "thumbnail": "https://static-media.hotmart.com/Fx_7JcpZ6FBYD4MKmc7uWOmJNQU=/705x0/https://uploads.teachablecdn.com/attachments/B4jixTvLSdaSDa6isEtD_Blue+%2841%29.jpg",
+    "link": "https://zerotomastery.io/courses/fine-tuning-llms/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2785781",
+    "length": "1.5 Hours",
+    "lessons": 17,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2754860",
+    "name": "The Dark Side of AI: Jailbreaking, Injections, Hallucinations & more",
+    "description": "Step into the dark side and learn about the vulnerabilities, exploits, and unintended consequences that AI models like LLMs suffer from, with hands-on prompting and exercises.",
+    "instructor": "Scott Kerr",
+    "thumbnail": "https://static-media.hotmart.com/KyEYgVar6JYtaYrwtX8sZluP4Ss=/705x0/https://uploads.teachablecdn.com/attachments/6OMly02eSku7RGMWCnzZ_Blue+%2833%29.jpg",
+    "link": "https://zerotomastery.io/courses/dark-side-of-ai/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2754860",
+    "length": "3 Hours",
+    "lessons": 24,
+    "level": "Beginner"
+  },
+  {
+    "id": "2664142",
+    "name": "Data Analysis for Beginners: Python & Statistics",
+    "description": "Explore the fundamentals of analyzing data using Python and statistics in an easy, step-by-step, and fun way.",
+    "instructor": "Diogo Resende",
+    "thumbnail": "https://static-media.hotmart.com/cJYvRvfCe9zTiPVqc3FSroqMiTM=/705x0/https://uploads.teachablecdn.com/attachments/l0S8nSGQtexUI6uifP8w_Blue+%2836%29.jpg",
+    "link": "https://zerotomastery.io/courses/python-data-analysis/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2664142",
+    "length": "6.5 Hours",
+    "lessons": 59,
+    "level": "Beginner"
+  },
+  {
+    "id": "2761644",
+    "name": "ChatGPT for Excel",
+    "description": "Become an AI freak in the (Excel) sheets! Unlock the power of ChatGPT to solve Excel challenges, sharpen your AI prompting skills, and get a hands-on intro to the world of Generative AI.",
+    "instructor": "Travis Cuzick",
+    "thumbnail": "https://static-media.hotmart.com/tTg43OTl3v2ePhIR3HkyiTtM2tw=/705x0/https://uploads.teachablecdn.com/attachments/ZqGAkLXlTOelVsIAgNIZ_Blue+%2830%29.jpg",
+    "link": "https://zerotomastery.io/courses/chatgpt-for-excel/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2761644",
+    "length": "3.5 Hours",
+    "lessons": 24,
+    "level": "Beginner"
+  },
+  {
+    "id": "2757548",
+    "name": "Perplexity AI for Professionals",
+    "description": "Discover how to use Perplexity AI for smarter, faster research and decision-making—no tech background required.",
+    "instructor": "Andrei Dumitrescu",
+    "thumbnail": "https://static-media.hotmart.com/J_MFQs5VjI4a1_2OqDqlg1BX-2k=/705x0/https://uploads.teachablecdn.com/attachments/2PMAnOAdQsqsOZCKrzTB_Blue+%2831%29.jpg",
+    "link": "https://zerotomastery.io/courses/perplexity-ai-tutorial/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2757548",
+    "length": "1 Hours",
+    "lessons": 12,
+    "level": "Beginner"
+  },
+  {
+    "id": "2758990",
+    "name": "Build AI Agents with CrewAI",
+    "description": "Build intelligent, collaborative AI agents with CrewAI. Learn to orchestrate multi-agent workflows using LLMs, tools, and real-world task delegation.",
+    "instructor": "Diogo Resende",
+    "thumbnail": "https://static-media.hotmart.com/_AcURVsL_LyhTpzfq3Mz7PDKE7E=/705x0/https://uploads.teachablecdn.com/attachments/yBrratm8Tbygrb3IVNIA_Blue+%2826%29.jpg",
+    "link": "https://zerotomastery.io/courses/learn-crewai-agents/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2758990",
+    "length": "3 Hours",
+    "lessons": 29,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2734790",
+    "name": "Build a Simple Neural Network and Learn Backpropagation",
+    "description": "Learn backpropagation and gradient descent by building neural networks from scratch using Python and math - no libraries, just core understanding.",
+    "instructor": "Patrik Szepesi",
+    "thumbnail": "https://static-media.hotmart.com/D7YlSdriBbs7_4CqCN1vWnNGTbs=/705x0/https://uploads.teachablecdn.com/attachments/iBUuFxCbSwKfxPdJnCVX_Blue+%2824%29.jpg",
+    "link": "https://zerotomastery.io/courses/neural-network-from-scratch/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2734790",
+    "length": "5 Hours",
+    "lessons": 42,
+    "level": "Advanced"
+  },
+  {
+    "id": "2745956",
+    "name": "Build AI Agents with AWS",
+    "description": "Learn to build and deploy AI Agents with AWS! Learn to orchestrate AI agents using LLMs, AWS Lambda, API Gateway, and S3 to build a production-ready AI Travel Agent.",
+    "instructor": "Patrik Szepesi",
+    "thumbnail": "https://static-media.hotmart.com/sBcsBX02dDlvMJTnU4eeexovcDU=/705x0/https://uploads.teachablecdn.com/attachments/oKqPq9nSfaIHhBgw8lo7_Blue+%2821%29.jpg",
+    "link": "https://zerotomastery.io/courses/aws-ai-agents/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2745956",
+    "length": "3.5 Hours",
+    "lessons": 30,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2664895",
+    "name": "AI Mastery: LLMs Explained with Math (Transformers, Attention Mechanisms & More)",
+    "description": "Dive deep into the mathematics powering transformers like GPT and BERT. Master attention mechanisms, positional encodings, and embeddings to understand the tech behind cutting-edge AI and language models.",
+    "instructor": "Patrik Szepesi",
+    "thumbnail": "https://static-media.hotmart.com/ABBa4HXNo_lJB-Zk4eN31SFTG4c=/705x0/https://uploads.teachablecdn.com/attachments/7NSwFXOoTO44cbSVinVg_Blue+%2822%29.jpg",
+    "link": "https://zerotomastery.io/courses/advanced-ai-transformers-explained/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2664895",
+    "length": "5 Hours",
+    "lessons": 34,
+    "level": "Advanced"
+  },
+  {
+    "id": "2721836",
+    "name": "The NotebookLM Guide: Your AI-Powered Productivity Assistant",
+    "description": "Learn to utilize Google’s AI-powered assistant, NotebookLM, to simplify research and boost productivity with new methods to help you work smarter.",
+    "instructor": "Diogo Resende",
+    "thumbnail": "https://static-media.hotmart.com/B_EKi8ngpNozCtX_F6-qW5HR5iE=/705x0/https://uploads.teachablecdn.com/attachments/19mzFidRSKXmkJGzpVow_Blue+%2819%29.jpg",
+    "link": "https://zerotomastery.io/courses/notebooklm-guide/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2721836",
+    "length": "2 Hours",
+    "lessons": 19,
+    "level": "Beginner"
+  },
+  {
+    "id": "2664177",
+    "name": "Linux for Beginners",
+    "description": "Learn Linux essentials from the ground up! Learn the fundamental commands, file management, permissions, processes, and system administration skills you need to confidently work with Linux.",
+    "instructor": "Andrei Dumitrescu",
+    "thumbnail": "https://static-media.hotmart.com/aVmhkgrBdGOU1g5utyvcF5gN73w=/705x0/https://uploads.teachablecdn.com/attachments/bpJuwTygQhmls1aGjUM2_Blue+%2818%29.jpg",
+    "link": "https://zerotomastery.io/courses/linux-for-beginners/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2664177",
+    "length": "8 Hours",
+    "lessons": 72,
+    "level": "Beginner"
+  },
+  {
+    "id": "2664194",
+    "name": "Learning to Think [Cognitive Bias]",
+    "description": "Learn to spot and challenge the hidden mental shortcuts shaping your decisions. Uncover biases like confirmation and anchoring to think more clearly, negotiate smarter, and make better choices every day.",
+    "instructor": "Diogo Resende",
+    "thumbnail": "https://static-media.hotmart.com/FB5dt0SNBfuST45YgCYqmoHj4Ys=/705x0/https://uploads.teachablecdn.com/attachments/dqTK16B2Ss2dIOKV94sd_Blue+%2816%29.jpg",
+    "link": "https://zerotomastery.io/courses/learn-cognitive-bias/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2664194",
+    "length": "1 Hours",
+    "lessons": 13,
+    "level": "Beginner"
+  },
+  {
+    "id": "2664173",
+    "name": "Learning to Make Better Decisions [Decision-Making]",
+    "description": "Uncover the hidden forces shaping your choices. From cognitive biases to decision-making strategies, this course empowers you to make conscious, confident decisions that align with your goals.",
+    "instructor": "Diogo Resende",
+    "thumbnail": "https://static-media.hotmart.com/0MQ8TJf4fPKRL-trGo3UJOZdiwU=/705x0/https://uploads.teachablecdn.com/attachments/1MKdCcySK6sorIbZIYsv_Blue.jpg",
+    "link": "https://zerotomastery.io/courses/learn-decision-making/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2664173",
+    "length": "1 Hours",
+    "lessons": 13,
+    "level": "Beginner"
+  },
+  {
+    "id": "2664154",
+    "name": "Supercharge Excel with Dynamic Array Functions & Formulas",
+    "description": "Learn one of Excel's newest and most powerful features. Handle tasks that used to require long, complicated formulas with just a few clicks to make your job easier, your workflows smoother, and your results better.",
+    "instructor": "Travis Cuzick",
+    "thumbnail": "https://static-media.hotmart.com/wFmIZuyfrZGsyRvtbKbolJ23-o4=/705x0/https://uploads.teachablecdn.com/attachments/2wd1exOHSJ6pPu66L4zC_Blue+%2813%29.jpg",
+    "link": "https://zerotomastery.io/courses/dynamic-arrays-excel/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2664154",
+    "length": "3.5 Hours",
+    "lessons": 21,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2588692",
+    "name": "Introduction to Excel Automation: Excel Macros and VBA",
+    "description": "Learn to wield the power of Excel Macros and VBA programming to automate, streamline, and master data in Excel. All from scratch!",
+    "instructor": "Travis Cuzick",
+    "thumbnail": "https://static-media.hotmart.com/UhyQGR21ACOUgBMY6_2Q6DUb9YM=/705x0/https://uploads.teachablecdn.com/attachments/VS6ZXS1sTZmLUbjdBFuW_Blue+%2814%29.jpg",
+    "link": "https://zerotomastery.io/courses/learn-excel-macros/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2588692",
+    "length": "2.5 Hours",
+    "lessons": 18,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2622705",
+    "name": "AI for Beginners: Inside Large Language Models",
+    "description": "Learn how Large Language Models (LLMs) actually work so that you can understand both where this breakthrough technology excels and its shortcomings.",
+    "instructor": "Scott Kerr",
+    "thumbnail": "https://static-media.hotmart.com/An9UWE50NX1leI1N2dIVAm41RAg=/705x0/https://uploads.teachablecdn.com/attachments/YgERo4BYT5yeKjkByVrn_Blue+%2855%29.jpg",
+    "link": "https://zerotomastery.io/courses/ai-for-beginners-large-language-models/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2622705",
+    "length": "3 Hours",
+    "lessons": 26,
+    "level": "Beginner"
+  },
+  {
+    "id": "2633352",
+    "name": "DevOps Mastery: Secure Internet Traffic with WireGuard VPN",
+    "description": "Learn how to set up, configure, and secure your network with WireGuard VPN in this concise, hands-on course. Perfect for DevOps Engineers and those looking to enhance their online privacy and security quickly.",
+    "instructor": "Andrei Dumitrescu",
+    "thumbnail": "https://static-media.hotmart.com/ATZCT8cvyyKpmM9jWmyBZLKktMc=/705x0/https://uploads.teachablecdn.com/attachments/DXIaCnBkQ0W3uFsr7TNa_Blue+%2854%29.jpg",
+    "link": "https://zerotomastery.io/courses/wireguard-vpn-guide/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2633352",
+    "length": "1 Hours",
+    "lessons": 13,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2588691",
+    "name": "Data Analysis for Beginners: Excel & Pivot Tables",
+    "description": "Explore the fundamentals of analyzing data using Excel Tables and Pivot Tables in an easy, step-by-step manner.",
+    "instructor": "Travis Cuzick",
+    "thumbnail": "https://static-media.hotmart.com/Eo722lu3vjOzj9BhfiyHWZ_ZAnI=/705x0/https://uploads.teachablecdn.com/attachments/vay3mwJVQjO9RqFPRwyN_Blue+%2835%29.jpg",
+    "link": "https://zerotomastery.io/courses/excel-data-analysis-training/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2588691",
+    "length": "2.5 Hours",
+    "lessons": 18,
+    "level": "Beginner"
+  },
+  {
+    "id": "2431151",
+    "name": "Future of A.I. & How To Use ChatGPT",
+    "description": "Learn how to adapt and stand out from the crowd in the fast-developing world of A.I.",
+    "instructor": "Andrei Neagoie",
+    "thumbnail": "https://static-media.hotmart.com/KD-i-P1puCEeSDCuIKhaQvyWH-I=/705x0/https://uploads.teachablecdn.com/attachments/xXJEDRGZSuW7vman4HLR_chagpt6.jpg",
+    "link": "https://zerotomastery.io/courses/future-of-ai/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2431151",
+    "length": "0.5 Hours",
+    "lessons": 3,
+    "level": "Beginner"
+  },
+  {
+    "id": "2583632",
+    "name": "Cybersecurity for Beginners",
+    "description": "Delve into the mechanisms behind common online attacks to understand how they work, why they're effective, and how to identify potential threats from subtle signs that often go unnoticed.",
+    "instructor": "Aleksa Tamburkovski",
+    "thumbnail": "https://static-media.hotmart.com/Ahc2ktia21cQGQ7okuUKG0pfkg8=/705x0/https://uploads.teachablecdn.com/attachments/Nb2xRay7RpGyZNPjhp1w_Blue+%2830%29.jpg",
+    "link": "https://zerotomastery.io/courses/cybersecurity-for-beginners/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2583632",
+    "length": "4 Hours",
+    "lessons": 33,
+    "level": "Beginner"
+  },
+  {
+    "id": "2588689",
+    "name": "Power BI for Beginners",
+    "description": "Explore the fundamentals of Power BI while building fun projects where you'll analyze real-world datasets on UFO and Bigfoot sightings!",
+    "instructor": "Travis Cuzick",
+    "thumbnail": "https://static-media.hotmart.com/BkIFwXnDIMph40UK3mTqQIxaS_M=/705x0/https://uploads.teachablecdn.com/attachments/T9XjtPRDmImlYGUrHpgf_Blue+%2810%29.jpg",
+    "link": "https://zerotomastery.io/courses/power-bi-for-beginners/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2588689",
+    "length": "3.5 Hours",
+    "lessons": 33,
+    "level": "Beginner"
+  },
+  {
+    "id": "2504859",
+    "name": "Introduction to Data Engineering",
+    "description": "Learn the fundamentals of data engineering and gain insights into the world of big data management and decision-making.",
+    "instructor": "Andrei Neagoie",
+    "thumbnail": "https://static-media.hotmart.com/cXH0NcADmtOIBx-kiQS34wgKeew=/705x0/https://uploads.teachablecdn.com/attachments/GIrc5ODRQSRQUDRnCo6B_Blue+%287%29.jpg",
+    "link": "https://zerotomastery.io/courses/data-engineering-fundamentals/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2504859",
+    "length": "1 Hours",
+    "lessons": 15,
+    "level": "Beginner"
+  },
+  {
+    "id": "2461381",
+    "name": "Building AI Apps with the Gemini API",
+    "description": "Learn to use Google's Gemini API for building AI-powered applications. Plus you'll put your skills into action by building three projects using the Gemini API.",
+    "instructor": "Andrei Dumitrescu",
+    "thumbnail": "https://static-media.hotmart.com/RpVP6tWt1Oq21qiCjNie0jzsZ8w=/705x0/https://uploads.teachablecdn.com/attachments/XSTnC7TQ5b97ghPrBY2g_Blue+%2817%29.png",
+    "link": "https://zerotomastery.io/courses/learn-gemini-api/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2461381",
+    "length": "3.5 Hours",
+    "lessons": 38,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2445269",
+    "name": "Ultimate AWS Bedrock Guide: Build & Scale Generative AI Apps",
+    "description": "Learn the cutting-edge world of AWS Bedrock and gain skills to create AI apps. You'll build and deploy three AI projects using foundation models from Meta, Anthropic, Cohere, Mistral and more, all from a single API!",
+    "instructor": "Patrik Szepesi",
+    "thumbnail": "https://static-media.hotmart.com/Omt-1kVi7ajLbl9Npkwb5fn65O4=/705x0/https://uploads.teachablecdn.com/attachments/bqOrffUT3i7RthkiBWkF_Blue.png",
+    "link": "https://zerotomastery.io/courses/learn-aws-bedrock/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2445269",
+    "length": "4 Hours",
+    "lessons": 42,
+    "level": "Advanced"
+  },
+  {
+    "id": "2438410",
+    "name": "Building AI Apps with the OpenAI API: GPT, DALL-E & Whisper",
+    "description": "Learn to use the OpenAI API for chat, image generation, text-to-speech, and speech-to-text so that you can utilize AI technologies in your applications. Plus you'll build an AI application for healthy daily meal plans.",
+    "instructor": "Andrei Dumitrescu",
+    "thumbnail": "https://static-media.hotmart.com/4uOGDHxg3647t6N-OOu0O3FkI30=/705x0/https://uploads.teachablecdn.com/attachments/ErDRaoQpQlSbkNP0fQuS_Blue+%2812%29.png",
+    "link": "https://zerotomastery.io/courses/openai-api-tutorial/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2438410",
+    "length": "3.5 Hours",
+    "lessons": 40,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2128199",
+    "name": "Developing LLM Apps with LangChain",
+    "description": "Learn how to build state-of-the-art LLM-powered applications with LangChain, Pinecone, OpenAI, and Python! We'll build together, step-by-step, line-by-line. This will be a true learning-by-doing experience!",
+    "instructor": "Andrei Dumitrescu",
+    "thumbnail": "https://static-media.hotmart.com/uzPRA5rz_u7OGaW66vurwR4j3iU=/705x0/https://uploads.teachablecdn.com/attachments/9kvqrkg7RDaU1qu4Y0z7_Blue+%2839%29.png",
+    "link": "https://zerotomastery.io/courses/learn-langchain-pinecone/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2128199",
+    "length": "4 Hours",
+    "lessons": 41,
+    "level": "Advanced"
+  },
+  {
+    "id": "2166305",
+    "name": "Developing LLM App Frontends with Streamlit",
+    "description": "Learn to use Streamlit to create a frontend for your LLM-powered applications. Streamlit is an open-source Python library that simplifies the creation and sharing of custom frontends for AI applications with the world.",
+    "instructor": "Andrei Dumitrescu",
+    "thumbnail": "https://static-media.hotmart.com/l_xPzlPsrbUysf8ltlWbB9x2HdI=/705x0/https://uploads.teachablecdn.com/attachments/WMLrs7sTrSreKlb9gA0t_Blue+%2843%29.png",
+    "link": "https://zerotomastery.io/courses/learn-streamlit-tutorial/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2166305",
+    "length": "4 Hours",
+    "lessons": 25,
+    "level": "Advanced"
+  },
+  {
+    "id": "2445268",
+    "name": "Introduction to ChatGPT Code Interpreter",
+    "description": "Discover the power of ChatGPT's Code Interpreter tool with this byte-sized course, diving into data analysis, machine learning and more, using real-world data.",
+    "instructor": "Diogo Resende",
+    "thumbnail": "https://static-media.hotmart.com/KG-E1eW14coUCsGqnEJelS2eoL8=/705x0/https://uploads.teachablecdn.com/attachments/I7vGziJRTvOXe0zrzKXt_Blue+%2829%29.png",
+    "link": "https://zerotomastery.io/courses/chatgpt-code-interpreter-guide/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2445268",
+    "length": "2.5 Hours",
+    "lessons": 17,
+    "level": "Beginner"
+  },
+  {
+    "id": "2310661",
+    "name": "Supercharged Code Editing with Vim and Neovim",
+    "description": "Learn to use Vim and Neovim with your favorite IDEs. You'll learn all the productivity-boosting shortcuts, macros, and techniques that will give you real mastery of code editing!",
+    "instructor": "Jayson Lennon",
+    "thumbnail": "https://static-media.hotmart.com/B1AFmMccHEnx3H2aE0IaniJUi8k=/705x0/https://uploads.teachablecdn.com/attachments/KRLrKqdORNGUwVVA6hSr_Blue+%2816%29.png",
+    "link": "https://zerotomastery.io/courses/learn-neovim-and-vim/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2310661",
+    "length": "3 Hours",
+    "lessons": 30,
+    "level": "Advanced"
+  },
+  {
+    "id": "2342047",
+    "name": "Introduction to Networking",
+    "description": "Learn the fundamental principles of networking by gaining insights into the structure and functioning of computer networks. The ideal starting point for individuals with limited or no prior experience in the field",
+    "instructor": "Aleksa Tamburkovski",
+    "thumbnail": "https://static-media.hotmart.com/AJlnN3OMHjthqxh-87Pp0s6TGnQ=/705x0/https://uploads.teachablecdn.com/attachments/N4DD27yR8qr8B1Fpf98M_Blue+%288%29.png",
+    "link": "https://zerotomastery.io/courses/introduction-to-networking/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2342047",
+    "length": "2 Hours",
+    "lessons": 31,
+    "level": "Beginner"
+  },
+  {
+    "id": "2201599",
+    "name": "AI Coding with GitHub Copilot",
+    "description": "Learn to use GitHub Copilot, a powerful AI-powered programming partner that helps programmers write code faster and more efficiently",
+    "instructor": "Andrei Dumitrescu",
+    "thumbnail": "https://static-media.hotmart.com/FgLs8BhqmFOO8TfJV48RzFjSBeI=/705x0/https://uploads.teachablecdn.com/attachments/PRDsTfRYRMqeqlfPxYsy_Blue+%287%29.png",
+    "link": "https://zerotomastery.io/courses/learn-github-copilot/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2201599",
+    "length": "1 Hours",
+    "lessons": 17,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2342045",
+    "name": "AI Coding with Jupyter AI",
+    "description": "Learn to use Jupyter AI, which adds generative AI capabilities to Jupyter Lab and Jupyter Notebook, the most popular open-source tools for Python programmers, Data Scientists, and AI & Machine Learning Engineers.",
+    "instructor": "Andrei Dumitrescu",
+    "thumbnail": "https://static-media.hotmart.com/sl0ryJ9LAAtibcO2841MGdLfLsI=/705x0/https://uploads.teachablecdn.com/attachments/grDTFlu6ShGCP8TndDEC_Blue+%287%29.png",
+    "link": "https://zerotomastery.io/courses/learn-jupyter-ai/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2342045",
+    "length": "1 Hours",
+    "lessons": 17,
+    "level": "Advanced"
+  },
+  {
+    "id": "2025734",
+    "name": "Introduction to ChatGPT: A Practical Guide",
+    "description": "Learn how ChatGPT actually works! This course will get you up to speed on how LLMs work under the hood including topics like Prompt Design, Fine-Tuning + more.",
+    "instructor": "Cale Shapera",
+    "thumbnail": "https://static-media.hotmart.com/KAsiCVDjEbUFbmnbJ76Narp4bRc=/705x0/https://uploads.teachablecdn.com/attachments/nqmivsETDaSXD7b1HkdA_kIv59urwT9ZYEeFfvyPg.png",
+    "link": "https://zerotomastery.io/courses/large-language-models",
+    "courseLink": "https://academy.zerotomastery.io/courses/2025734",
+    "length": "1 Hours",
+    "lessons": 13,
+    "level": "Beginner"
+  },
+  {
+    "id": "2184983",
+    "name": "Artificial Intelligence in Cybersecurity",
+    "description": "Explore the crucial relationship between artificial intelligence and cybersecurity including vulnerabilities and security risks associated with Large Language Models (LLMs) and machine learning.",
+    "instructor": "Aleksa Tamburkovski",
+    "thumbnail": "https://static-media.hotmart.com/U1izQ1dH-A1bu_-0Z7YZYz-rix4=/705x0/https://uploads.teachablecdn.com/attachments/BHyltTSKQlGJw2IUavAO_Blue+%287%29.png",
+    "link": "https://zerotomastery.io/courses/ai-and-cybersecurity/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2184983",
+    "length": "1 Hours",
+    "lessons": 11,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2156850",
+    "name": "Enhanced Freelancing with AI",
+    "description": "Learn to leverage AI to optimize your freelancing profile for visibility, craft personalized and persuasive proposals, and manage projects more efficiently.",
+    "instructor": "Paul Mendes",
+    "thumbnail": "https://static-media.hotmart.com/NxNEwLT4RuifaVU17NFhAPLBCWs=/705x0/https://uploads.teachablecdn.com/attachments/9tp8m8noRwcKP05gIFNu_Blue+%285%29.png",
+    "link": "https://zerotomastery.io/courses/ai-freelancing/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2156850",
+    "length": "1 Hours",
+    "lessons": 12,
+    "level": "Intermediate"
+  },
+  {
+    "id": "1599759",
+    "name": "NFT 101: Introduction to NFTs",
+    "description": "This introduction to NFTs course will teach you what NFTs are, how to use them & give you a step-by-step guide to create your own NFT and sell it on OpenSea.",
+    "instructor": "Mo Binni",
+    "thumbnail": "https://static-media.hotmart.com/0ToVL2bRmy2zPZN5n1LW8wGy6V0=/705x0/https://uploads.teachablecdn.com/attachments/zXUIIbsBS02ObN8dI5QR_NFT.jpg",
+    "link": "https://zerotomastery.io/courses/introduction-to-nfts",
+    "courseLink": "https://academy.zerotomastery.io/courses/1599759",
+    "length": "2 Hours",
+    "lessons": 21,
+    "level": "Beginner"
+  },
+  {
+    "id": "1545967",
+    "name": "WebAssembly: A Practical Guide",
+    "description": "Learn WebAssembly to develop high-performance applications with near-native performance. Take your programming skills to the next level by learning this cutting-edge web technology.",
+    "instructor": "Luis Ramirez Jr",
+    "thumbnail": "https://static-media.hotmart.com/Q4UchariKMK2c-VzkuNI5q7mz2E=/705x0/https://uploads.teachablecdn.com/attachments/z9iQacoXRoaiQ5y6B649_buJb88fdTwyKdl1ojlJt.png",
+    "link": "https://zerotomastery.io/courses/learn-webassembly",
+    "courseLink": "https://academy.zerotomastery.io/courses/1545967",
+    "length": "2.5 Hours",
+    "lessons": 26,
+    "level": "Advanced"
+  },
+  {
+    "id": "1253066",
+    "name": "Career Advice: Getting Your First Dev Job",
+    "description": "Learn how to land your first developer job with expert insights on the tech industry, resume tips, GitHub profile building, and standing out in the hiring process. Get the tools you need to succeed in your job search!",
+    "instructor": "Yihua Zhang",
+    "thumbnail": "https://static-media.hotmart.com/tNTrKQZTXoBpDBzsASCzrlNWRjM=/705x0/https://uploads.teachablecdn.com/attachments/dXdEsVsQ76XQHOXMQmIN_Blue+%282%29.jpg",
+    "link": "https://zerotomastery.io/courses/career-advice-first-developer-job/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1253066",
+    "length": "1 Hours",
+    "lessons": 2,
+    "level": "Beginner"
+  },
+  {
+    "id": "1253064",
+    "name": "FAANG Interview Prep 101",
+    "description": "Get a real, behind the scenes look at the FAANG / Big Tech hiring process and what you'll need to do to get hired at a top tech company.",
+    "instructor": "Yihua Zhang",
+    "thumbnail": "https://static-media.hotmart.com/t4XabT0DXu-NpyTJGYu_8EEzvEs=/705x0/https://uploads.teachablecdn.com/attachments/aheKF2QaTW2Gs2lkg6Jm_Blue+%2842%29.jpg",
+    "link": "https://zerotomastery.io/courses/faang-interview-prep-101/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1253064",
+    "length": "2.5 Hours",
+    "lessons": 4,
+    "level": "Intermediate"
+  },
+  {
+    "id": "1318647",
+    "name": "Designer to Developer Handoff: Build a Project from a Design File",
+    "description": "Learn how to turn finished Figma designs into fully coded projects. Master the essential skills to bridge the gap between design and development, and bring creative visions to life with code.",
+    "instructor": "Matt Studdert",
+    "thumbnail": "https://static-media.hotmart.com/SirCXmzMGIvdxtSCD9J3uATYOKs=/705x0/https://uploads.teachablecdn.com/attachments/EaxQ4s44SWiqKbfnyT2f_Blue+%2849%29.jpg",
+    "link": "https://zerotomastery.io/courses/designer-to-developer-handoff/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1318647",
+    "length": "3.5 Hours",
+    "lessons": 3,
+    "level": "Intermediate"
+  },
+  {
+    "id": "1546106",
+    "name": "Cybersecurity: Personal Online Security",
+    "description": "Learn how to protect your security and privacy online using best practices for passwords, browsers, VPNs and more.",
+    "instructor": "Aleksa Tamburkovski",
+    "thumbnail": "https://static-media.hotmart.com/i1jDCgjL8dP5CfPAfwZ1NGD52gA=/705x0/https://uploads.teachablecdn.com/attachments/G2NJTM1sTS2S1JOm6IdK_Blue.jpg",
+    "link": "https://zerotomastery.io/courses/digital-security/",
+    "courseLink": "https://academy.zerotomastery.io/courses/1546106",
+    "length": "1 Hours",
+    "lessons": 8,
+    "level": "Beginner"
+  },
+  {
+    "id": "783909",
+    "name": "Principles For Programmers",
+    "description": "The Condensed Advice From The World's Best Programmers | The Book by @AndreiNeagoie of Zero To Mastery",
+    "instructor": "Andrei Neagoie",
+    "thumbnail": "https://static-media.hotmart.com/2uptA2oWeQpcxllQKZCBEVw8loo=/705x0/https://uploads.teachablecdn.com/attachments/CGYzUjH9TdeyV8qo24Ud_77862a2411804b51bc557159337854cd.png",
+    "link": null,
+    "courseLink": "https://academy.zerotomastery.io/courses/783909",
+    "length": null,
+    "lessons": null,
+    "level": null
+  },
+  {
+    "id": "2122063",
+    "name": "Welcome to the Projects Section!",
+    "description": "",
+    "instructor": "Zero To Mastery Instructor Team",
+    "thumbnail": "https://static-media.hotmart.com/1mbXhvrbjy5jIeInDzqtOIlvoyU=/705x0/https://uploads.teachablecdn.com/attachments/vNJEYhKYROmLkKxJ8Rwo_Blue.png",
+    "link": null,
+    "courseLink": "https://academy.zerotomastery.io/courses/2122063",
+    "length": null,
+    "lessons": null,
+    "level": null
+  },
+  {
+    "id": "2805701",
+    "name": "Build a ChatGPT Deep Research Clone with Streamlit",
+    "description": "Build and deploy your own AI research agent using GPT models, Python, and Streamlit. Automate deep research, search queries, and reporting from scratch.",
+    "instructor": "Diogo Resende",
+    "thumbnail": "https://static-media.hotmart.com/su3mFiKWciNhfzwT-aVZVUH4y0Q=/705x0/https://uploads.teachablecdn.com/attachments/6fbcf5a5aa014417883fe7064a243a29.jpg",
+    "link": "https://zerotomastery.io/courses/chatgpt-deep-research-clone/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2805701",
+    "length": "2 Hours",
+    "lessons": 21,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2584459",
+    "name": "Build an AI Career Coach using an Open Source LLM",
+    "description": "Utilize an open source LLM and prompt engineering to create an AI Career Coach that can teach, quiz, and challenge you on your subject of choice - all with natural language (no programming required)!",
+    "instructor": "Scott Kerr",
+    "thumbnail": "https://static-media.hotmart.com/_5DuogksSb1P0zcEMRqoX6A1KtY=/705x0/https://uploads.teachablecdn.com/attachments/1VpsJFbIRWK1JRlcbHxJ_Blue+%282%29.jpg",
+    "link": "https://zerotomastery.io/courses/ai-career-coach/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2584459",
+    "length": "1.5 Hours",
+    "lessons": 18,
+    "level": "Beginner"
+  },
+  {
+    "id": "2629876",
+    "name": "Build an AI Stock Analyzer using ChatGPT, Python and LangChain",
+    "description": "Discover the power of Generative AI to gather stock data, analyze key indicators like P/E ratios, and optimize your portfolio using ChatGPT and LangChain to build a real-world, useful AI project!",
+    "instructor": "Diogo Resende",
+    "thumbnail": "https://static-media.hotmart.com/Vfg99DOULBvUq9Pb4kL_Q76Usms=/705x0/https://uploads.teachablecdn.com/attachments/5Ln03HSKOPmmxz0zA1wC_Blue+%2837%29.jpg",
+    "link": "https://zerotomastery.io/courses/generative-ai-stock-market-analysis/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2629876",
+    "length": "3 Hours",
+    "lessons": 20,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2629711",
+    "name": "Learn Hugging Face by Building a Custom AI Model",
+    "description": "Learn the Hugging Face ecosystem from scratch by training your own text classification model and launching it to the world!",
+    "instructor": "Daniel Bourke",
+    "thumbnail": "https://static-media.hotmart.com/j6o373iZJ-SmfNRdLuGpmZ3YDiE=/705x0/https://uploads.teachablecdn.com/attachments/rMYVL73ySdi07tWtfCB4_Blue+%2832%29.jpg",
+    "link": "https://zerotomastery.io/courses/hugging-face-text-classification-project/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2629711",
+    "length": "6.5 Hours",
+    "lessons": 41,
+    "level": "Advanced"
+  },
+  {
+    "id": "2513050",
+    "name": "Conquer JavaScript by Building Your Own Framework from Scratch",
+    "description": "Understand how JavaScript works at a deeper level, enhance your JavaScript skills, and build an awesome portfolio project in this project-based course!",
+    "instructor": "Tuomas Kivioja",
+    "thumbnail": "https://static-media.hotmart.com/QE7dnYiOzeBnn7MiMP0iExfXGrw=/705x0/https://uploads.teachablecdn.com/attachments/ehtiYKaxQtWJSvhGXFLw_Blue+%286%29.jpg",
+    "link": "https://zerotomastery.io/courses/build-javascript-framework-project/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2513050",
+    "length": "1.5 Hours",
+    "lessons": 15,
+    "level": "Advanced"
+  },
+  {
+    "id": "2516671",
+    "name": "Build a ChatBot with Nuxt, TypeScript and the OpenAI Assistants API",
+    "description": "Take your skills to the next level and build an AI-powered customer support ChatBot! You'll learn to utilize the OpenAI Assistants API to power a chatbot that's fine-tuned for your specific product or service.",
+    "instructor": "Luis Ramirez Jr",
+    "thumbnail": "https://static-media.hotmart.com/i3UMQ9v9b7F-0C1p3o0Cfib4ma0=/705x0/https://uploads.teachablecdn.com/attachments/PaQxT6nuRuu6gRh4I6H6_Blue.jpg",
+    "link": "https://zerotomastery.io/courses/nuxt-project-chatbot-ai/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2516671",
+    "length": "3 Hours",
+    "lessons": 26,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2483720",
+    "name": "Master the Pathfinding Algorithms with JavaScript and React",
+    "description": "Enhance your JavaScript and React skills, build a portfolio project, and understand the pathfinding algorithms on a deeper level in this project-based course!",
+    "instructor": "Tuomas Kivioja",
+    "thumbnail": "https://static-media.hotmart.com/oJL4ZkdZJDcwuRr_ZOovU4KRD-c=/705x0/https://uploads.teachablecdn.com/attachments/rEVkkFLKTl2BwBUavwbw_Blue+%282%29.png",
+    "link": "https://zerotomastery.io/courses/javascript-project-algorithm-visualizer/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2483720",
+    "length": "2.5 Hours",
+    "lessons": 26,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2141954",
+    "name": "Build a Notion Clone with React and TypeScript",
+    "description": "Take your skills to the next level by building a React Typescript project! This course will teach how to use TypeScript with React while building a Notion Clone using best practices.",
+    "instructor": "Maksim Ivanov",
+    "thumbnail": "https://static-media.hotmart.com/74e-eXwZ92ulA2iKB-AlksoVv7Q=/705x0/https://uploads.teachablecdn.com/attachments/OKV4G4WxSAaClAq4ws4n_Blue+%286%29.png",
+    "link": "https://zerotomastery.io/courses/react-project-ideas-notion-clone/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2141954",
+    "length": "8 Hours",
+    "lessons": 112,
+    "level": "Advanced"
+  },
+  {
+    "id": "2122985",
+    "name": "Build an End-to-End Web App from Scratch in AWS",
+    "description": "Take your AWS skills to the next level and build a portfolio project! This project-based course will guide you through designing and building a web application using five different AWS services.",
+    "instructor": "Amber Israelsen",
+    "thumbnail": "https://static-media.hotmart.com/Upuj9bVjVDdpIbfCEYftx2L6CIc=/705x0/https://uploads.teachablecdn.com/attachments/np1qGR8QQiqhF2JRX15s_Blue+%284%29.png",
+    "link": "https://zerotomastery.io/courses/aws-project-web-app/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2122985",
+    "length": "1 Hours",
+    "lessons": 13,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2090710",
+    "name": "Build a Full-Stack X/Twitter Clone with Rust",
+    "description": "Take your Rust programming skills to the next level! In this project-based course you'll use Rust for both the frontend and backend to build a fullstack (and full-fledged) Twitter clone.",
+    "instructor": "Jayson Lennon",
+    "thumbnail": "https://static-media.hotmart.com/6AB6GYZ8vNTA-jCx928tw6BW4bo=/705x0/https://uploads.teachablecdn.com/attachments/vTWy4xF4TnKGhQSa7l1F_Blue+%283%29.png",
+    "link": "https://zerotomastery.io/courses/rust-project-twitter-clone/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2090710",
+    "length": "15 Hours",
+    "lessons": 172,
+    "level": "Advanced"
+  },
+  {
+    "id": "2090711",
+    "name": "Build an Instagram Filters App with Vue, TypeScript and WebAssembly",
+    "description": "Take your Vue skills to the next level and build a portfolio project! This course will teach you to build an Instagram filters app using best practices and help you overcome common mistakes made by Vue Developers.",
+    "instructor": "Luis Ramirez Jr",
+    "thumbnail": "https://static-media.hotmart.com/xzVJPjciJ5zjQphY2P2gC-mOt0M=/705x0/https://uploads.teachablecdn.com/attachments/NVVr4bjSShW8Q0g21V4G_Blue+%285%29.png",
+    "link": "https://zerotomastery.io/courses/vue-project-instagram-filter-app/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2090711",
+    "length": "2.5 Hours",
+    "lessons": 27,
+    "level": "Advanced"
+  },
+  {
+    "id": "2090709",
+    "name": "Create a Retirement Planning Tool with Excel",
+    "description": "Learn, build and reinforce your Excel skills with this hands-on project that guides you through the creation of a dynamic and multifaceted retirement planner spreadsheet-based tool!",
+    "instructor": "Travis Cuzick",
+    "thumbnail": "https://static-media.hotmart.com/mwTl86S6Zp1pkqJU7r7pLm-UZpU=/705x0/https://uploads.teachablecdn.com/attachments/MbS6R8XgSD6kh4xWBAi3_Blue+%285%29.png",
+    "link": "https://zerotomastery.io/courses/excel-projects-retirement-planning-tool/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2090709",
+    "length": "3 Hours",
+    "lessons": 48,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2090712",
+    "name": "Crack the Frontend Interview with React",
+    "description": "In this project-based course you'll learn the mental framework needed to breakdown problems you will face in Frontend Engineering interviews by building a straightforward (yet surprisingly complex) Star Rating component.",
+    "instructor": "Yihua Zhang",
+    "thumbnail": "https://static-media.hotmart.com/e3_EFbsq3gXhwyZBpjwS2Q60Rmk=/705x0/https://uploads.teachablecdn.com/attachments/BXRgwKnCSQCXc6NMYhtb_Blue+%286%29.png",
+    "link": "https://zerotomastery.io/courses/react-projects-star-rating-component/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2090712",
+    "length": "1.5 Hours",
+    "lessons": 15,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2090713",
+    "name": "Rank a Website on the First Page of Google with SEO",
+    "description": "Rank your website on the first page as quickly as possible. We’ll go through a step-by-step process of identifying low-competition keywords, writing SEO-friendly content, and driving traffic to your site!",
+    "instructor": "Scott Stockdale",
+    "thumbnail": "https://static-media.hotmart.com/pVhXeguUYJlMSIsDpWg5wfb_tWs=/705x0/https://uploads.teachablecdn.com/attachments/xH9Kz3HRHyLuacvNmftX_Blue+%2810%29.png",
+    "link": "https://zerotomastery.io/courses/seo-projects-rank-first-page/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2090713",
+    "length": "1.5 Hours",
+    "lessons": 15,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2135775",
+    "name": "Design a Responsive Airbnb Website with Figma",
+    "description": "In this project-based course you'll delve into the realm of advanced Figma features to craft a responsive website for a fictional, AirBnB-like rental service company called \"Flexrent\".",
+    "instructor": "Daniel Schifano",
+    "thumbnail": "https://static-media.hotmart.com/dCALcUgVkdSZy1ztf9GBqb8s-TY=/705x0/https://uploads.teachablecdn.com/attachments/oQr8nOOATCuxLYkHaflw_Blue+%2813%29.png",
+    "link": "https://zerotomastery.io/courses/figma-projects-responsive-web-design/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2135775",
+    "length": "12 Hours",
+    "lessons": 90,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2153759",
+    "name": "Conduct a Choice-Based Conjoint Analysis for Netflix with Python",
+    "description": "Delve into real-world market research and data analysis, focusing on consumer behavior for a globally recognized brand, Netflix.",
+    "instructor": "Diogo Resende",
+    "thumbnail": "https://static-media.hotmart.com/iv4M1Aw0fP5uKA-MkbBDHlmOxyE=/705x0/https://uploads.teachablecdn.com/attachments/QdRBDIMuTHy8DEhhpW4c_Blue+%2814%29.png",
+    "link": "https://zerotomastery.io/courses/data-analysis-projects-choice-based-conjoint-analysis/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2153759",
+    "length": "2 Hours",
+    "lessons": 26,
+    "level": "Intermediate"
+  },
+  {
+    "id": "2092303",
+    "name": "Build a Yelp! Clone for Restaurants with Flutter and Dart",
+    "description": "",
+    "instructor": "Marco Napoli",
+    "thumbnail": "https://static-media.hotmart.com/cvZahyECJ6gJePsc4PQ65FVEjto=/705x0/https://uploads.teachablecdn.com/attachments/nBsy0hWKTgGx9WMAMXH2_Blue+%2816%29.png",
+    "link": null,
+    "courseLink": "https://academy.zerotomastery.io/courses/2092303",
+    "length": null,
+    "lessons": null,
+    "level": null
+  },
+  {
+    "id": "2166308",
+    "name": "Create a Discord Bot with Node.js",
+    "description": "Build and reinforce your Node skills by building a Discord Bot that predicts the weather, forecasts astronomical information, and acts as a sandbox to practice everything related to Node and backend programming.",
+    "instructor": "Adam Odziemkowski",
+    "thumbnail": "https://static-media.hotmart.com/lpZcLdCVEQ7jFrTcltVYitfDK9U=/705x0/https://uploads.teachablecdn.com/attachments/qRRS61ARkOOHSsdi6t8X_Blue+%2815%29.png",
+    "link": "https://zerotomastery.io/courses/nodejs-projects-discord-bot/",
+    "courseLink": "https://academy.zerotomastery.io/courses/2166308",
+    "length": "3.5 Hours",
+    "lessons": 25,
+    "level": "Intermediate"
+  },
+  {
+    "id": "1690919",
+    "name": "Visit Our Virtual Campus",
+    "description": "Your membership includes access to the private ZTM Campus where we host live events with instructors and students. Stay tuned for monthly campus events and announcements!",
+    "instructor": "Zero To Mastery Instructor Team",
+    "thumbnail": "https://static-media.hotmart.com/ZoVE5WnTSoxP8cQqDxcMeUft_IQ=/705x0/https://file-uploads.teachablecdn.com/1eca2bc5eb9e4674959438bb7ddbeef1/3bcdcdcb4f514a02bebb3ac669196a24",
+    "link": null,
+    "courseLink": "https://academy.zerotomastery.io/courses/1690919",
+    "length": null,
+    "lessons": null,
+    "level": null
+  },
+  {
+    "id": "2450909",
+    "name": "ZTM Campus Event Recordings",
+    "description": "Listen to recordings of past Campus events. A great way to keep learning while doing chores or going for a walk!",
+    "instructor": "Zero To Mastery Instructor Team",
+    "thumbnail": "https://static-media.hotmart.com/ym3t3aCAWQHUDIgXFVUVFJmAPrw=/705x0/https://uploads.teachablecdn.com/attachments/RuwBuMlsRdKz408ibgM5_ztm+campus+recordings.jpg",
+    "link": null,
+    "courseLink": "https://academy.zerotomastery.io/courses/2450909",
+    "length": null,
+    "lessons": null,
+    "level": null
   }
 ]
