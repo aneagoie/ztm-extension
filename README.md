@@ -18,13 +18,7 @@ Official extension for [Zero To Mastery Academy](https://zerotomastery.io/) stud
 
 ## Features
 
-* Toggle sidebar (responsive)
-* Toggle dark mode on all pages
-* Hide Lecture Title
-* Showing total amount of time in each section
-* Favorite courses
-* Daily Motivation
-* Course Details
+
 
 ## Feature requests
 
