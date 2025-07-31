@@ -2,6 +2,8 @@
 
 # Zero To Mastery - Extension
 
+> **⚠️ NOTICE: As of July 2025, all extension features have been disabled as they are now natively integrated into the Zero To Mastery Academy website. This extension is no longer required for the enhanced features.**
+
 Official extension for [Zero To Mastery Academy](https://zerotomastery.io/) students.
 
 ![Extension Current Version](https://img.shields.io/github/manifest-json/v/sithu-khant/ztm-extension)
