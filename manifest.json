@@ -25,96 +25,9 @@
     "service_worker": "background.js"
   },
   "content_scripts": [
-    {
-      "js": [
-        "scripts/ztm-dark-mode.js"
-      ],
-      "matches": [
-        "https://academy.zerotomastery.io/*"
-      ]
-    },
-    {
-      "js": [
-        "scripts/ztm-favorite-courses.js"
-      ],
-      "css": [
-        "css/ztm-favorite-courses.css"
-      ],
-      "matches": [
-        "https://academy.zerotomastery.io/*"
-      ]
-    },
-    {
-      "js": [
-        "scripts/ztm-course-details.js"
-      ],
-      "css": [
-        "css/ztm-course-details.css"
-      ],
-      "matches": [
-        "https://academy.zerotomastery.io/*"
-      ]
-    },
-    {
-      "js": [
-        "scripts/ztm-daily-motivation.js"
-      ],
-      "css": [
-        "css/ztm-daily-motivation.css"
-      ],
-      "matches": [
-        "https://academy.zerotomastery.io/*"
-      ]
-    },
-    {
-      "js": [
-        "scripts/ztm-toggle-sidebar.js"
-      ],
-      "css": [
-        "css/ztm-toggle-sidebar.css"
-      ],
-      "matches": [
-        "https://academy.zerotomastery.io/courses/*"
-      ]
-    },
-    {
-      "js": [
-        "scripts/ztm-section-times.js"
-      ],
-      "css": [
-        "css/ztm-section-times.css"
-      ],
-      "matches": [
-        "https://academy.zerotomastery.io/*"
-      ]
-    },
-    {
-      "js": [
-        "scripts/ztm-hide-lecture-title.js"
-      ],
-      "matches": [
-        "https://academy.zerotomastery.io/courses/*"
-      ]
-    }
+  
   ],
-  "web_accessible_resources": [
-    {
-      "resources": [
-        "css/ztm-dark-mode.css"
-      ],
-      "matches": [
-        "https://academy.zerotomastery.io/*"
-      ]
-    },
-    {
-      "resources": [
-        "course-details.json"
-      ],
-      "matches": [
-        "https://academy.zerotomastery.io/*"
-      ]
-    }
-  ],
+  "web_accessible_resources": [ ],
   "icons": {
     "16": "icons/icon16.png",
     "32": "icons/icon32.png",

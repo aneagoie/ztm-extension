@@ -150,3 +150,79 @@ html, body {
 .popup-dark-mode .links a {
     color: #fff;
 }
+/* Disabled Notice Styles */
+.disabled-notice {
+    padding: 20px;
+    text-align: center;
+}
+
+.notice-icon {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.disabled-notice h4 {
+    color: #e74c3c;
+    margin-bottom: 15px;
+    font-size: 1.1rem;
+}
+
+.disabled-notice p {
+    color: #666;
+    margin-bottom: 15px;
+    line-height: 1.4;
+    font-size: 0.9rem;
+}
+
+.feature-list-disabled {
+    background-color: #f8f9fa;
+    border: 1px solid #e9ecef;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 15px 0;
+    text-align: left;
+}
+
+.feature-list-disabled h5 {
+    color: #495057;
+    margin-bottom: 10px;
+    font-size: 0.9rem;
+}
+
+.feature-list-disabled ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.feature-list-disabled li {
+    color: #28a745;
+    margin-bottom: 5px;
+    font-size: 0.85rem;
+}
+
+.ztm-footer span {
+    margin: 0 8px;
+    color: #ccc;
+}
+
+.popup-dark-mode .disabled-notice {
+    background-color: #393E46;
+}
+
+.popup-dark-mode .disabled-notice p {
+    color: #ccc;
+}
+
+.popup-dark-mode .feature-list-disabled {
+    background-color: #232931;
+    border-color: #4a5568;
+}
+
+.popup-dark-mode .feature-list-disabled h5 {
+    color: #fff;
+}
+
+.popup-dark-mode .feature-list-disabled li {
+    color: #68d391;
+}
