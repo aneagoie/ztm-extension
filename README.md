@@ -1,14 +1,9 @@
 <img align="right" width="150" height="150" src="./utils/assets/ztm-logo.png" alt="logo">
 
-# Zero To Mastery - Extension
+# Zero To Mastery - Extension DEPRECATED! - all features are now supported natively inside ZTM academy without the need of the extension.
 
 Official extension for [Zero To Mastery Academy](https://zerotomastery.io/) students.
 
-![Extension Current Version](https://img.shields.io/github/manifest-json/v/sithu-khant/ztm-extension)
-![GitHub License](https://img.shields.io/badge/license-MIT-green)
-![Code File Size](https://img.shields.io/github/languages/code-size/sithu-khant/ztm-extension)
-![GitHub forks](https://img.shields.io/github/forks/sithu-khant/ztm-extension)
-![GitHub Repo stars](https://img.shields.io/github/stars/sithu-khant/ztm-extension)
 
 ## Downloads
 
